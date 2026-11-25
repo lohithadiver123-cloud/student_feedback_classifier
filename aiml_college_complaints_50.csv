@@ -1,0 +1,51 @@
+complaint_id,department,complaint
+1,AIML,The Wi-Fi keeps disconnecting during machine learning lectures.
+2,AIML,The projector in Room 204 is too dim to read code from the back benches.
+3,AIML,Three computers in AI Lab 1 take nearly ten minutes to start.
+4,AIML,The ceiling fan in Room 107 makes a loud rattling noise.
+5,AIML,The drinking water tap near the AIML department is not working.
+6,AIML,The washroom outside Room 109 has no soap for most of the day.
+7,AIML,The Python lab software is outdated and does not support the packages used in class.
+8,AIML,The air conditioner in Seminar Hall 2 is not cooling the room.
+9,AIML,Students cannot access the department's shared GPU server after 4 PM.
+10,AIML,The classroom speakers in Room 301 produce crackling audio.
+11,AIML,The library has very few updated books on deep learning.
+12,AIML,The attendance portal marked me absent even though I attended the morning lecture.
+13,AIML,The canteen runs out of food before the afternoon break ends.
+14,AIML,The corridor lights near AI Lab 2 are not working.
+15,AIML,The lab assistant is often unavailable when students need help with system access.
+16,AIML,Internet speed in Room 205 drops whenever the whole class connects.
+17,AIML,The chairs in Room 112 are broken and uncomfortable.
+18,AIML,The department timetable has two required labs scheduled at the same time.
+19,AIML,The college bus regularly arrives late at the main gate.
+20,AIML,The notice about the internal assessment was shared only a few hours before the exam.
+21,AIML,The computers in Room 2A have no working headphones for speech recognition experiments.
+22,AIML,The printer near the department office has been out of service for a week.
+23,AIML,The staircase near Block C becomes slippery after cleaning and has no warning sign.
+24,AIML,The AI lab closes before students can finish their assigned project work.
+25,AIML,The classroom whiteboard in Room 206 is stained and difficult to write on.
+26,AIML,Several students are unable to log in to the learning management system.
+27,AIML,"The lab network blocks access to GitHub, which we need for assignments."
+28,AIML,The college website shows an incorrect date for the AIML practical exam.
+29,AIML,The water cooler beside the library dispenses warm water.
+30,AIML,The benches in Room 108 are too close together to move comfortably.
+31,AIML,The deep learning lab has only one GPU workstation for a large batch.
+32,AIML,The department projector does not have an HDMI adapter.
+33,AIML,The lift in Block B has been out of service for several days.
+34,AIML,The corridor outside Room 210 smells strongly because the waste bin is not emptied.
+35,AIML,The machine learning assignment instructions do not mention the required dataset format.
+36,AIML,The faculty uploaded the lecture slides after the assignment deadline.
+37,AIML,The lab computers frequently restart while students are running notebooks.
+38,AIML,The campus Wi-Fi login expires every few minutes.
+39,AIML,The fan above the last row in Room 303 is not rotating.
+40,AIML,The college portal does not allow students to download fee receipts.
+41,AIML,The AI lab has insufficient power sockets for students using laptops.
+42,AIML,The seminar room booking system shows rooms as available when they are already occupied.
+43,AIML,The washroom near Block A has a leaking pipe.
+44,AIML,The department has not announced the project evaluation schedule.
+45,AIML,The Python environment on lab computers is different from the version taught in class.
+46,AIML,The biometric attendance machine near the AIML department often fails to recognize fingerprints.
+47,AIML,The campus road between Block B and the library has several potholes.
+48,AIML,The canteen payment QR code frequently fails to scan.
+49,AIML,The classroom in Room 115 becomes extremely hot during afternoon sessions.
+50,AIML,The lab PCs do not have enough RAM to run the required neural network models.

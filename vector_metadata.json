@@ -1,0 +1,3560 @@
+{
+  "0": {
+    "vector_id": 0,
+    "category_id": "C1",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madam, Too much theory in Reinforcemnt Learing and hardly any hands-on codinng examples during lecturse. This is blocking my credits and the lab viva is next week. Please share a tieline. Sincerely,"
+  },
+  "1": {
+    "vector_id": 1,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, Water dispenser on the AIML floor has been empty since 20 Octobe. This is affeting our preparation for the internal test. Can this be resolved soon? Regards,"
+  },
+  "2": {
+    "vector_id": 2,
+    "category_id": "C3",
+    "room_number": "General",
+    "complaint_text": "[High] Teams preparing for the assignment deadline need late evening access to the lab systems. Honestly this is unacceptable for an AIML department. mail me at student898@gmail.com"
+  },
+  "3": {
+    "vector_id": 3,
+    "category_id": "C4",
+    "room_number": "General",
+    "complaint_text": "<p>guys  we  cannot pip install anything on lab systems, internet filters block half of d libraries. this is d third time we are reporting this and nothing happens. we would appreciate a response. lmk yaar 👍</p><br>"
+  },
+  "4": {
+    "vector_id": 4,
+    "category_id": "C5",
+    "room_number": "General",
+    "complaint_text": "<p>Dear Sir, Corridor lights outside d lab are out"
+  },
+  "5": {
+    "vector_id": 5,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "ANY  SUGGESTIONS  FOR  THE DEPARTMENT? THE DEPARTMENT SHOULD BUY NEWER WORKSTATIONS AND A SMALL GPU CLUSTER FOR STUDENTS!!! PLEASE ESCALATE THIS IMMEDIATELY. 😭😭"
+  },
+  "6": {
+    "vector_id": 6,
+    "category_id": "C7",
+    "room_number": "Seminar Hall",
+    "complaint_text": "<p>[Medium] The mic in AIML seminar hall doesn't work so students at the back cannot hear Prof. Kulkarni. Several groups are behind schedule because of this.</p><br>"
+  },
+  "7": {
+    "vector_id": 7,
+    "category_id": "C8",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madam, Python versions differ across lab machines so code that runs on one PC breaks on another. Unless fixed fast, 45 students will miss the deadline. Can this be resolved soon? Sincerely,"
+  },
+  "8": {
+    "vector_id": 8,
+    "category_id": "C9",
+    "room_number": "General",
+    "complaint_text": "[Medium] We need regular guidance on model evaluation but our guide is always travelling. Prof. Nambiar covers backpropagation math in Deep Learning so fast that no one can follow the derivations. Several groups are behind schedule because of this."
+  },
+  "9": {
+    "vector_id": 9,
+    "category_id": "C3",
+    "room_number": "General",
+    "complaint_text": "Hello  Sir, Teams preparing for the project review need late evening access to the lab systems. About 12 students are affected. Please look i"
+  },
+  "10": {
+    "vector_id": 10,
+    "category_id": "C10",
+    "room_number": "General",
+    "complaint_text": "Fedeback: Please add worksohps on MLOps, Dockr and deployment; we only learn theory in class. It was mentioned earlier but nothing changed. yaar"
+  },
+  "11": {
+    "vector_id": 11,
+    "category_id": "C11",
+    "room_number": "Room A-204",
+    "complaint_text": "[Low] d projector in classroom A-204 flickers and the code on slides is unreadable. This is affecting our preparation for the mid-sem."
+  },
+  "12": {
+    "vector_id": 12,
+    "category_id": "C12",
+    "room_number": "General",
+    "complaint_text": "what prroblems did you faace? revaluation proocess for deep leraning is uncleear and nobody replies to our queries. it would be a great help if this is looked into soon."
+  },
+  "13": {
+    "vector_id": 13,
+    "category_id": "C13",
+    "room_number": "General",
+    "complaint_text": "hey all, please look into it. this is the third time we are reporting this and nothing happens. nobody has told us the results of the deep learning lab record, and prof. iyer says tas are checking. pls react if same 😡"
+  },
+  "14": {
+    "vector_id": 14,
+    "category_id": "C14",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: marks for the lab viva were reduced for 'coding stye' that was nveer mentioned earlier. about 20 studennts are affected. please share a timeline. pls reaact if same 😤😞"
+  },
+  "15": {
+    "vector_id": 15,
+    "category_id": "C15",
+    "room_number": "Gpu Lab",
+    "complaint_text": "Hello Sir, The GPU lab closes at 5 pm, which is too early for training runs and project work. Students in the batch are a bit inconvenienced. Request the department to take action. Regards,\n\nSent from my iPhone"
+  },
+  "16": {
+    "vector_id": 16,
+    "category_id": "C16",
+    "room_number": "General",
+    "complaint_text": "[Low]  Lab  sessions  for AI Ethics are too short, we barely finish setup before time is over. It would be a great help if this is looked into soon."
+  },
+  "17": {
+    "vector_id": 17,
+    "category_id": "C17",
+    "room_number": "Data Science Lab",
+    "complaint_text": "Any suggestions for the department? The Data Science lab closes at 5 pm, whcih is too early for trainign runs and project work. We keep loisng time and marks because of thiss. bilkul bekaar hai"
+  },
+  "18": {
+    "vector_id": 18,
+    "category_id": "C18",
+    "room_number": "General",
+    "complaint_text": "<p>hey all, marks for the project review were reduced for 'coding style' that was never mentioned earlier. this is blocking my credits and the project review is next week. can this be resolved soon? lmk</p><br>"
+  },
+  "19": {
+    "vector_id": 19,
+    "category_id": "C19",
+    "room_number": "General",
+    "complaint_text": "what problems did you face? please introduce a dedicated elective on llm engineering and propt design. it was metnioned earlier but nothing changged."
+  },
+  "20": {
+    "vector_id": 20,
+    "category_id": "C20",
+    "room_number": "Data Science Lab",
+    "complaint_text": "ADDITIONAL COMMENTS: SYSTEMS IN THE DATA SCIENCE LAB ARE EXTREMELY SLOW, WITH 8 GB RAM AND FREQUENT HANGS DURING DATASET LOADING. THIS HAS BEEN HAPPENING SINCE SEPTEMBER."
+  },
+  "21": {
+    "vector_id": 21,
+    "category_id": "C21",
+    "room_number": "General",
+    "complaint_text": "[Low] Feedback comes so late that we repeat the same mistakes in the next assignment. Students in the batch are a bit inconvenienced."
+  },
+  "22": {
+    "vector_id": 22,
+    "category_id": "C13",
+    "room_number": "General",
+    "complaint_text": "guys nobody has told us the results of the Reinforcement Learning lab record, and Dr. Reddy says TAs are checking. this needs action this week, it is seroius. kindly arrange a fix at the earliest. pls react if same"
+  },
+  "23": {
+    "vector_id": 23,
+    "category_id": "C21",
+    "room_number": "General",
+    "complaint_text": "Any  suggestions for the department? Feedback comes so late that we repeat the same mistakes in the next assignment. It would be a great help if this is looked into soon. 😡"
+  },
+  "24": {
+    "vector_id": 24,
+    "category_id": "C22",
+    "room_number": "Tutorial Room 3",
+    "complaint_text": "[Medimu] Chairs in tutorial room 3 are broken and there aren't enough seats for the whole batch. This has been happening since September. Contact: 9895344481"
+  },
+  "25": {
+    "vector_id": 25,
+    "category_id": "C23",
+    "room_number": "Ai Lab",
+    "complaint_text": "<p>Addiitonal comments: Plaese allow weekend access to the AI lab; long experiments can't be completed in a 2-hour slot. This needs action this week, it is serious.</p><br>"
+  },
+  "26": {
+    "vector_id": 26,
+    "category_id": "C24",
+    "room_number": "Gpu Lab",
+    "complaint_text": "Hello  Sir,  d AC in d GPU lab has been off since 20 Ocober; d room is unbearaly hot and PCs shut down. abt 80 stdnts are affeccted. pls shaare a timeline. Thanks,"
+  },
+  "27": {
+    "vector_id": 27,
+    "category_id": "C1",
+    "room_number": "General",
+    "complaint_text": "guys about 20 studnets are affectted!!! too much theory in Reinforcement Learning and hardly any hands-on coding examples duing lectures. request the department to take action. pls react if same"
+  },
+  "28": {
+    "vector_id": 28,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "[Medium] CUDA is not detected on most lab systems since 2 wekes ago; we can't run our Probabilistic Models notebooks. Several gropus are behind schedule because of this.  Get Outlook for Android"
+  },
+  "29": {
+    "vector_id": 29,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "additional comments: internet in the lab keeps dropping, so we can't download datasets or pretrained models. several groups are behind schedule because of this. koi sunta hi nahi"
+  },
+  "30": {
+    "vector_id": 30,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Water dispenser on d AIML floor has been empty since September. This is affecting our preparation for d internal test."
+  },
+  "31": {
+    "vector_id": 31,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "OK SO CUDA IS NOT DETECTED ON MOST LAB SYSTEMS SINCE 2 WEEKS AGO; WE CAN'T RUN OUR DEEP LEARNING NOTEBOOKS. ABOUT 12 STUDENTS ARE AFFECTED. WE WOULD APPRECIATE A RESPONSE. sir please help"
+  },
+  "32": {
+    "vector_id": 32,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "[Medium] Our transformer fine-tuning keeps getting killed because the shared server runs out of memory. Several groups are behind schedule because of this."
+  },
+  "33": {
+    "vector_id": 33,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Colab free tier disconnects every hour and the department cluster is not accessible to students. It was mentioned earlier but nothing changed."
+  },
+  "34": {
+    "vector_id": 34,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Feedback: Review slots for the final-year project keep getting postponed without notice. This is blocking my credits and the internal test is next week."
+  },
+  "35": {
+    "vector_id": 35,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[low] no co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. this is affecting our preparation for the mid-sem."
+  },
+  "36": {
+    "vector_id": 36,
+    "category_id": "C29",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, Many power sockets at lab benches are dead and groups share one extension board. It would be a great help if this is looked into soon. Please share a timeline. Thanks,  Get Outlook for Android"
+  },
+  "37": {
+    "vector_id": 37,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "<p>hey all, colab free tier disconnects every hour and the department cluster is not accessible to students. this needs actoin this week, it is serious. please look into it. lmk</p><br>"
+  },
+  "38": {
+    "vector_id": 38,
+    "category_id": "C29",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madam, The mic in the department smart class doesn't work so students at the back cannot hear Prof. Qureshi. Many power sockets at lab benches are dead and groups share one extension board. We understand there may be constraints, but it is slowing down our work. We would appreciate a response. Sincerely,"
+  },
+  "39": {
+    "vector_id": 39,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[low] assignments submitted for big data analytics 2 weeks ago are still not graded or returned. it would be a great help if this is looked into soon."
+  },
+  "40": {
+    "vector_id": 40,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Colab free tier disconnects every hour and d dept cluster is not accessible to stdnts Several groups are behind schedule bcz of this!!! Request d dept to take action. Sincerely,"
+  },
+  "41": {
+    "vector_id": 41,
+    "category_id": "C30",
+    "room_number": "Ai Lab",
+    "complaint_text": "[Medium] Only two GPUs for the entire batch and the queue to train a CNN never moves. The AC in the AI lab has been off since last month; the room is unbearably hot and PCs shut down. Several groups are behind schedule because of this."
+  },
+  "42": {
+    "vector_id": 42,
+    "category_id": "C19",
+    "room_number": "General",
+    "complaint_text": "[Medium] pls introduce a dedicated elective on LLM engineering and prompt design. Several groups are behind schedule bcz of this."
+  },
+  "43": {
+    "vector_id": 43,
+    "category_id": "C17",
+    "room_number": "Data Science Lab",
+    "complaint_text": "Respected Sir/Madam, The Data Science lab closes at 5 pm, which is too early for training runs and project work. Unless fixed fast, 12 students will miss the deadline. Request the department to take action. Sincerely,"
+  },
+  "44": {
+    "vector_id": 44,
+    "category_id": "C31",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "What problems did you face? The AC in the AIML research lab has been off since September; the room is unbearably hot and PCs shut down!!! This is affecting our preparation for the lab viva."
+  },
+  "45": {
+    "vector_id": 45,
+    "category_id": "C32",
+    "room_number": "Gpu Lab",
+    "complaint_text": "hey all, the GPU machines in the GPU lab are always occupied or down, so Natural Language Processing model training takes days on CPU. this has been happening since the first week of October. we would appreciate a response. thoughts? koi sunta hi nahi"
+  },
+  "46": {
+    "vector_id": 46,
+    "category_id": "C33",
+    "room_number": "General",
+    "complaint_text": "[Critical] Teams preparing for the end-sem practical need late evening access to the lab systems!!! Please escalate this immediately."
+  },
+  "47": {
+    "vector_id": 47,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Medium] Marks for the lab viva were reduced for â€™coding styleâ€™ that was never mentioned earlier. Several groups are behind schedule because of this. 😞"
+  },
+  "48": {
+    "vector_id": 48,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "[High] Several topics in Deep Learning were skipped but they appear in the question bank. Corridor lights outside the lab are out, making it unsafe after evening classes. Honestly this is unacceptable for an AIML department. sir please help"
+  },
+  "49": {
+    "vector_id": 49,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: please look into it. several groups are behind schedule because of this. marks for the end-sem practical were reduced for 'coding style' that was never mentioned earlier."
+  },
+  "50": {
+    "vector_id": 50,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, There is no clear rubric for the Probabilistic Models project; marks seem random between batches. We understand there may be constraints, but it is slowing down our work. Please look into it. Thanks,"
+  },
+  "51": {
+    "vector_id": 51,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, Dr. Banerjee covers backpropagation math in Natural Language Processing so fast that no one can follow d derivations. Honestly this is unacceptable for an AIML dept Can this be resolved soon? Regards,"
+  },
+  "52": {
+    "vector_id": 52,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "<p>Any suggestions for the department? Marks for the Natural Language Processing quiz are yet to be uploaded and the project review is coming up. It was mentioned earlier but nothing changed.</p><br>"
+  },
+  "53": {
+    "vector_id": 53,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: can a keycard system be arranged so finalâ€“year students can use the ML lab at night? it would be a great help if this is looked into soon. we would appreciate a response. pls react if same"
+  },
+  "54": {
+    "vector_id": 54,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, No co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. Students in the batch are a bit inconvenienced. We would appreciate a response. Regards,"
+  },
+  "55": {
+    "vector_id": 55,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "Feedback: Water dispenser on the AIML floor has been empty since the first week o"
+  },
+  "56": {
+    "vector_id": 56,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[High] Colab free tier disconnects every hour and the department cluster is not accessible to students. We keep losing time and marks because of this."
+  },
+  "57": {
+    "vector_id": 57,
+    "category_id": "C36",
+    "room_number": "General",
+    "complaint_text": "[Low] We cannot pip install anything on lab systems, internet filters block half of the libraries. Students in the batch are a bit inconvenienced.  CONFIDENTIAL: this message is intended only for the addressee."
+  },
+  "58": {
+    "vector_id": 58,
+    "category_id": "C32",
+    "room_number": "Gpu Lab",
+    "complaint_text": "[Critical] Please allow weekend access to the GPU lab; long experiments can't be completed in a 2-hour slot. This needs action this week, it is serious."
+  },
+  "59": {
+    "vector_id": 59,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Prof. Kulkarni covers backpropagation math in Probabilistic Models so fast that no one can follow d derivations. This is affecting our preparation for d project review. pls look into it. Sincerely,"
+  },
+  "60": {
+    "vector_id": 60,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Low] Two TAs gave different marks for the same model accuracy and report in Deep Learning. We understand there may be constraints, but it is slowing down our work."
+  },
+  "61": {
+    "vector_id": 61,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? My noteboook matched the solution outpuut but still lost mark, while a friend with the same code got full credit!!! We understand tehre may be constrants, but it is slowing down our work."
+  },
+  "62": {
+    "vector_id": 62,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, We would like access to curated datasets and research papers for Probabilistic Models projects. This has been happening sice the first week of October. Can this be resloved soon? Sincerely, ekdum kharab hai pls reply"
+  },
+  "63": {
+    "vector_id": 63,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "[Critical]  The  Reinforcement  Learning syllabus still talks about old techniques while the industry uses transformers and LLMs. Please escalate this immediately."
+  },
+  "64": {
+    "vector_id": 64,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "ok so it was mentioned earlier but nothing changed!!! kindly arrange a fix at the earliest. dr. Joshi doesn't reply to mails regarding the Data Mining mini project proposal. lmk sir please help"
+  },
+  "65": {
+    "vector_id": 65,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "Additional  comments: Dr. Joshi covers backpropagation math in Machine Learning so fast that no one can follow the derivations. About 12 students are affected. mail me at student354@gmail.com"
+  },
+  "66": {
+    "vector_id": 66,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Prof. Nambiar covers backpropagation math in Machine Learning so fast that no one can follow d derivations. This is blocking my credits and d project review is next week. We would appreciate a response. Sincerely,"
+  },
+  "67": {
+    "vector_id": 67,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Hello  Sir, No co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. About 20 students are affected. Please look into it. Regards,"
+  },
+  "68": {
+    "vector_id": 68,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "DRAFT  FOR  HOD:  WATER DISPENSER ON THE AIML FLOOR HAS BEEN EMPTY SINCE 2 WEEKS AGO. THIS IS THE THIRD TIME WE ARE REPORTING THIS AND NOTHING HAPPENS. WE WOULD APPRECIATE A RESPONSE. LMK"
+  },
+  "69": {
+    "vector_id": 69,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "guys cUDA is not detected on most lab systems since the first week of October; we can't run our Probabilistic Models notebooks. about 30 students are affected. please look into it."
+  },
+  "70": {
+    "vector_id": 70,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, Review slots for d final-year project keep getting postponed without notice!!! It would be a great help if this is looked into soon. pls look into it. Regards,"
+  },
+  "71": {
+    "vector_id": 71,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: assignments submitted for Data Mining 20 October are still not graded or returned. please escalate this immediately. please look into it. thoughts?"
+  },
+  "72": {
+    "vector_id": 72,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, Lab sessions for Natural Language Processing are too short, we barely finish setup before time is over. stdnts in the batch are a bit inconvenienced. Can this be resolved soon? Regards,"
+  },
+  "73": {
+    "vector_id": 73,
+    "category_id": "C33",
+    "room_number": "General",
+    "complaint_text": "dear sir, teams preparing for the lab viva need late evening access to the lab systems. it would be a great help if this is looked into soon. kindly arrange a fix at the earliest. thanks, ekdum kharab hai"
+  },
+  "74": {
+    "vector_id": 74,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Only two GPUs for the entire batch and the queue to train a CNN never movves!!! This has been happening since 2 weeeks ago. Please look into it. Regards,"
+  },
+  "75": {
+    "vector_id": 75,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "DEAR SIR, NOBODDY HAS TOLD US THE RESULTS OF THE DATA MINING LAB RECORDD, AND PORF. KULKARNI SAYS TAS ARE CHECKING. EVERYONE IS FED UP WITH THIS SITUATION. CAN THIS BE RESOLVED SOON? SINCERELY, see https://bit.ly/za12ca"
+  },
+  "76": {
+    "vector_id": 76,
+    "category_id": "C33",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Please allow weekend access to d ML lab; long experiments can't be completed in a 2-hour slot. About 60 stdnts are affected."
+  },
+  "77": {
+    "vector_id": 77,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "[medium] my project guide has not met our team for weeks and our project review is near. about 45 students are affected. see https://bit.ly/x231zz"
+  },
+  "78": {
+    "vector_id": 78,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "any suggestions for the department? department jupyterhub keeps throwing 500 errors and our saved notebooks vanish. we understand there may be constraints, but it is slowing down our work. Contact: 9819424320"
+  },
+  "79": {
+    "vector_id": 79,
+    "category_id": "C39",
+    "room_number": "General",
+    "complaint_text": "[Critical] There is no clear rubric for the Computer Vision project; marks seem random between batches. This needs action this week, it is serious. bohot slow hai"
+  },
+  "80": {
+    "vector_id": 80,
+    "category_id": "C40",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "guys the GPU machines in the AIML research lab are always occupied or down, so Natural Langage Processing model training takkes days on CPU!!! everyoone is fed up with this situation. pllease share a timeline. lmk"
+  },
+  "81": {
+    "vector_id": 81,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? No co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. It would be a great help if this is looked into soon."
+  },
+  "82": {
+    "vector_id": 82,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "Feedback: Our transformer fine-tuning keeps getting killed because the shared server runs out of memory. This is affecting our preparation for the internal test. yaar"
+  },
+  "83": {
+    "vector_id": 83,
+    "category_id": "C17",
+    "room_number": "Data Science Lab",
+    "complaint_text": "Dear  HOD, The Data Science lab closes at 5 pm, which is too early for training runs and project work. We understand there may be constraints, but it is slowing down our work. We would appreciate a response. Thanks, koi sunta hi nahi"
+  },
+  "84": {
+    "vector_id": 84,
+    "category_id": "C29",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Many power sockets at lab benches are dead and groups share one extension board. About 12 students are affected. Kindly arrange a fix at the earliest. Sincerely,"
+  },
+  "85": {
+    "vector_id": 85,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "[Medium] The department should buy newer workstations and a small GPU cluster for students. About 45 students are affected."
+  },
+  "86": {
+    "vector_id": 86,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "[High] CUDA is not detected on most lab systems since the first week of October; we can't run our Deep Learning notebooks. Everyone is fed up with this situation. kuch kaam nahi kar raha"
+  },
+  "87": {
+    "vector_id": 87,
+    "category_id": "C11",
+    "room_number": "Room A-204",
+    "complaint_text": "Feedbck: The projector in classroom A-204 flickers and the code on slids is unrreadable. It was mentoined earlier but nothing changed."
+  },
+  "88": {
+    "vector_id": 88,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[LOW] REVIEW SLOTS FOR d FINAL-YEAR PROJECT KEEP GETTING POSTPONED WITHOUT NOTICE. IT WOULD BE A GREAT HELP IF THIS IS LOOKED INTO SOON."
+  },
+  "89": {
+    "vector_id": 89,
+    "category_id": "C41",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Revaluation process for Machine Learning is uncleear and nobody replies to our queries. Students in the batch are a bit inconvenienced. We would appreciate a response. Sincerely,"
+  },
+  "90": {
+    "vector_id": 90,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Additionla comments: Lecture slides for Big Data Analytics are not shared before class and the pace is too quick for ntes. It would be a great help if this is looked into soon."
+  },
+  "91": {
+    "vector_id": 91,
+    "category_id": "C41",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Revaluation proces for Reinforcement Learning is unclear and nobody replies to our queries. This is the third time we are reporting this and nothing happens."
+  },
+  "92": {
+    "vector_id": 92,
+    "category_id": "C42",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "[Critical] Can a keycard system be arranged so finalâ€“year students can use the AIML research lab at night? This is blocking my credits and the project review is next week."
+  },
+  "93": {
+    "vector_id": 93,
+    "category_id": "C40",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "[High] The AIML research lab closes at 5 pm, which is too early for training runs and project work. We keep losing time and marks because of this."
+  },
+  "94": {
+    "vector_id": 94,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "[High] Dr. Menon covers backpropagation math in AI Ethics so fast that no one can follow the derivations. This is the third time we are reporting this and nothing happens."
+  },
+  "95": {
+    "vector_id": 95,
+    "category_id": "C43",
+    "room_number": "Seminar Hall",
+    "complaint_text": "additional comments: the projector in aiml seminar hall flickers and the code on slides is unreadable. students in the batch are a bit inconvenienced."
+  },
+  "96": {
+    "vector_id": 96,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Lab sessions for Deep Learning are too short, we barely finish setup before time is over. Water dispenser on the AIML floor has been empty since 20 October. Several groups are behind schedule because of this."
+  },
+  "97": {
+    "vector_id": 97,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "too many problems"
+  },
+  "98": {
+    "vector_id": 98,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? My notebook matched the solution output but still lost marks, while a friend with the same code got full credit. This needs action this week, it is serious."
+  },
+  "99": {
+    "vector_id": 99,
+    "category_id": "C40",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "<p>Hello Sir, d AIML research lab closes at 5 pm, which is too early for training runs and project work. We understand there may be constraints, but it is slowing down our work. We would appreciate a response. Sincerely,</p><br>"
+  },
+  "100": {
+    "vector_id": 100,
+    "category_id": "C33",
+    "room_number": "General",
+    "complaint_text": "[High] Teams preparing for the lab viva need late evening access to the lab systems. This is the third time we are reporting this and nothing happens. mail me at s"
+  },
+  "101": {
+    "vector_id": 101,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? Our transformer fine-tuning keeps getting killed because the shared server runs out of memory. Too much theory in Natural Language Processing and hardly any hands-on coding examples during lectures. It was mentioned earlier but nothing changed. 👍🙏"
+  },
+  "102": {
+    "vector_id": 102,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "<p>Feedback: There is no clear rubric for the Data Mining project; marks seem random between batches. This is the third time we are reporting this and nothing happens.</p><br>"
+  },
+  "103": {
+    "vector_id": 103,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear  HOD,  We got only a score for the Deep Learning programming assignment, with zero comments on what went wrong. Students in the batch are a bit inconvenienced. We would appreciate a response. Sincerely,"
+  },
+  "104": {
+    "vector_id": 104,
+    "category_id": "C44",
+    "room_number": "Ai Lab",
+    "complaint_text": "draft for HOD: about 80 students are affected. systems in the AI lab are extremely slow, with 8 GB RAM and frequent hangs during dataset loading. please share a timeline. thoughts?  Get Outlook for Android"
+  },
+  "105": {
+    "vector_id": 105,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "<p>Respected Sir/Madam, Several topics in Data Mining were skipped but they appear in the question bank!!! We understand there may be constraints, but it is slowing down our work. Please look into it. Thanks,</p><br>"
+  },
+  "106": {
+    "vector_id": 106,
+    "category_id": "C45",
+    "room_number": "Room A-204",
+    "complaint_text": "What problems did you face? Chairs in classroom A-204 are broken and there aren't enough seats for the whole batch. Unless fixed fasst, 20 students will miss the deadline. sir please help"
+  },
+  "107": {
+    "vector_id": 107,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Lecture slides for Machine Learning are not shared before class and the pace is too quick for notes. U"
+  },
+  "108": {
+    "vector_id": 108,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "any suggestions for the department? we got only a score for the probabilistic models programming assignment, with zero comments on what went wrong. several groups are behind schedule because of this. 😡😭🙏"
+  },
+  "109": {
+    "vector_id": 109,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Additional comments: We got only a score for the Natural Language Processing programming assignment, with zero comments on what went wrong. This is affecting our preparation for the project review."
+  },
+  "110": {
+    "vector_id": 110,
+    "category_id": "C32",
+    "room_number": "Gpu Lab",
+    "complaint_text": "guys it was mentioned earlier but nothing changed. keyboards, mice and monitors in the GPU lab are broken and nobody replaces them. can this be resolved soon? pls react if same see https://bit.ly/y3xxy1"
+  },
+  "111": {
+    "vector_id": 111,
+    "category_id": "C40",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "draft for HOD: please look into it. the AIML research lab closes at 5 pm, which is too early for training runs and project work. this is blocking my credits and the assignment deadline is next week. pls react if same"
+  },
+  "112": {
+    "vector_id": 112,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, Water dispenser on the AIML floor has been empty since 2 weeks ago. Please escalate this immediately. Please share a timeline. Regards,"
+  },
+  "113": {
+    "vector_id": 113,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "ADDITIONAL COMMENTS: SEVERAL TOPICS IN DEEP LEARNING WERE SKIPPED BUT THEY APPEAR IN THE QUESTION BANK. PLEASE ESCALATE THIS IMMEDIATELY. 🔥🙏🔥"
+  },
+  "114": {
+    "vector_id": 114,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "<p>[High] d dept should buy newer workstations and a small GPU cluster for stdnts Honestly this is unacceptable for an AIML dept</p><br>"
+  },
+  "115": {
+    "vector_id": 115,
+    "category_id": "C41",
+    "room_number": "General",
+    "complaint_text": "Feedback: Revaluation process for Big Data Analytics is unclear and nobody repies to our queries. We understand there may be constraints, but it is slowing down our work."
+  },
+  "116": {
+    "vector_id": 116,
+    "category_id": "C42",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "<p>Respecteed Sir/Madam, d AC in d AIML research lab has been off since September; the room is un"
+  },
+  "117": {
+    "vector_id": 117,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "[Low] Please add workshops on MLOps, Docker and deployment; we only learn theory in class. It would be a great help if this is looked into soon."
+  },
+  "118": {
+    "vector_id": 118,
+    "category_id": "C46",
+    "room_number": "Room B-110",
+    "complaint_text": "hey all, kindly arrange a fix at d earliest. unless fixed fast, 80 stdnts will miss d deadline. chairs in room B-110 are broken and there aren't enough seats for d whole batch. thoughts?"
+  },
+  "119": {
+    "vector_id": 119,
+    "category_id": "C41",
+    "room_number": "General",
+    "complaint_text": "<p>[Medium] Revaluation process for Natural Language Processing is unclear and nobody replies to our queries. This has been happening since 20 October.</p><br>"
+  },
+  "120": {
+    "vector_id": 120,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "[high] feedback comes so late that we repeat the same mistakes in the next assignment. the gpu machines in the ml lab are always occupied or down, so ai ethics model training takes days on cpu. everyone is fed up with this situation. see https://bit.ly/acc3zy"
+  },
+  "121": {
+    "vector_id": 121,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "guys prof. Iyer covers backpropagation math in Big Data Analytics so fast that no one can follow the derivations. please add workshops on MLOps, Docker and deployment; we only learn theory in class. it would be a great help if this is looked into soon. please look into it. pls react if same"
+  },
+  "122": {
+    "vector_id": 122,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Feedback comes so late that we repeat the same mistakes in the next assignment. Unless fixed fast, 12 students will miss the deadline."
+  },
+  "123": {
+    "vector_id": 123,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "Feedback: Water dispenser on the AIML floor has been empty since the first week of October. It would be a great help if this is looked into soon.  CONFIDENTIAL: this message is intended only for the addressee."
+  },
+  "124": {
+    "vector_id": 124,
+    "category_id": "C13",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Nobody has told us the results of the Reinforcement Learning lab record, and Prof. Qureshi says TAs are checking. It was mentioned earlier but nothing changed."
+  },
+  "125": {
+    "vector_id": 125,
+    "category_id": "C4",
+    "room_number": "General",
+    "complaint_text": "guys we cannot pip intall anything on lab systems, internet filters block half of the libraries. this has been happening since 20 October. can this be resovled soon? pls react if same"
+  },
+  "126": {
+    "vector_id": 126,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? My noteboook matched the solution outpuut but still lost mark, while a friend with the same code got full credit!!! We understand tehre may be constrants, but it is slowing down our work. !!"
+  },
+  "127": {
+    "vector_id": 127,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "guys cuda is not detected on most lab systems since last month; we can't run our reinforcement learning notebooks. several groups are behind scheduel because of this. please look into it. lmk"
+  },
+  "128": {
+    "vector_id": 128,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "[Medium] We need regular guidance on model evaluation but our guide is always travelling!!! This has been happening since since the semester began. bilkul bekaar hai"
+  },
+  "129": {
+    "vector_id": 129,
+    "category_id": "C39",
+    "room_number": "General",
+    "complaint_text": "everything is slow"
+  },
+  "130": {
+    "vector_id": 130,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[critical] assignments submitted for reinforcement learning september are still not graded or returned. this needs action this week, it is serious."
+  },
+  "131": {
+    "vector_id": 131,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Feedback: Feedback comes so late that we repeat the same mistakes in the next assignment. This is blocking my credits and the midâ€“sem is next week."
+  },
+  "132": {
+    "vector_id": 132,
+    "category_id": "C47",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "hello sir, water dispenser on the aiml floor has been empty since the first week of october. please allow weekend access to the aiml research lab; long experiments can't be completed in a 2-hour slot. this is affecting our preparation for the project review. kindly arrange a fix at the earliest. sincerely,"
+  },
+  "133": {
+    "vector_id": 133,
+    "category_id": "C48",
+    "room_number": "General",
+    "complaint_text": "guys chairs in d department smart class are broken and there aren't enough seats for d whole batch. pls look into it. it would be a great help if this is looked into soon."
+  },
+  "134": {
+    "vector_id": 134,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[High] Assignments submitted for AI Ethics September are still not graded or returned!!! We keep losing time and marks because of this."
+  },
+  "135": {
+    "vector_id": 135,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Marks for the Machine Learning quiz are yet to be upoladed and the end-sem practical is coming up. It would be a greta help if this is looked into soon. koi sunta hi nahi  Regards, Student, AIML 3rd yr"
+  },
+  "136": {
+    "vector_id": 136,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "hey  all,  we got only a score for the AI Ethics programming assignment, with zero comments on what went wrong. this has been happening since mid October. request the department to take action. pls react if same  --  Sent from my Android"
+  },
+  "137": {
+    "vector_id": 137,
+    "category_id": "C49",
+    "room_number": "Seminar Hall",
+    "complaint_text": "Respected Sir/Madam, Chairs in AIML seminar hall are broken and there aren't enough seats for d whole batch. This has been happening sincce since d smester began. Request d dept to take action. Thanks,"
+  },
+  "138": {
+    "vector_id": 138,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Medium] Colab free tier disconnects every hour and the department cluster is not accessible to students. Several groups are behind schedule because of this."
+  },
+  "139": {
+    "vector_id": 139,
+    "category_id": "C29",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madam, Many power sockets at lab benches are dead and groups share one extension board. Several groups are behind schedule because of this. Kindly arrange a fix at the earliest. Regards, ⚠️"
+  },
+  "140": {
+    "vector_id": 140,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "<p>[Critical] We need regular guidance on model evaluation but our guide is always travelling. This is blocking my credits and the mid-sem is next week.</p><br>"
+  },
+  "141": {
+    "vector_id": 141,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? Assignments submitted for Probabilistic Models September are still not graded or returned. We understand there may be constraints, but it is sl"
+  },
+  "142": {
+    "vector_id": 142,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "hey all, we would appreciate a response. marks for the AI Ethics quiz are yet to be uploaded and the end-sem practical is coming up. please escalate this immediately. samajh nahi aata 😞😤😞 see https://bit.ly/b21acb"
+  },
+  "143": {
+    "vector_id": 143,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, Too much theory in Big Data Analytics and hardly any hands-on coding examples during lectures. Everyone is fed up with this situation. We would appreciate a response. Sincerely,"
+  },
+  "144": {
+    "vector_id": 144,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Prof. Iyer doesn't reply to mails regarding the Computer Vision mini project proposal. It would be a great help if this is looked into soon. We would appreciate a response. Thanks,"
+  },
+  "145": {
+    "vector_id": 145,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Industry guest lectures on LLMs and generative AI would make Naatural Langugae Processing more relevant. It would be a great help if this is looked into soon. 🔥⚠️  --  Sent from my Android"
+  },
+  "146": {
+    "vector_id": 146,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: keyboards, mice and monitors in the ML lab are broken and nobody replaces them. about 12 students are affected. request the department to take action. pls react if same"
+  },
+  "147": {
+    "vector_id": 147,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Medium] Marks for the project review were reduced for 'coding style' that was never mentioned earlier. About 20 students are affected."
+  },
+  "148": {
+    "vector_id": 148,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "ok  so  two  TAs gave different marks for d same model accuracy and report in Reinforcement Learning. this is blocking my credits and d Kaggle-style mini project is next week. request d department to take actio.n"
+  },
+  "149": {
+    "vector_id": 149,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, Marks for the Reinforcement Learning quiz are yet to be uploaded and the internal test is coming up. Please escalate this immediately. We would appreciate a response. Regards, 🙏😡⚠️"
+  },
+  "150": {
+    "vector_id": 150,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? Too much theory in Big Data Analytics and hardly any hands-on coding examples during lectures. The department should buy newer workstations and a small GPU cluster for students. This has been happening since the first week of October.\n\nSent from my iPhone"
+  },
+  "151": {
+    "vector_id": 151,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "[medium] water dispenser on the aiml floor has been empty since september!!! it was mentioned earlier but nothing changed."
+  },
+  "152": {
+    "vector_id": 152,
+    "category_id": "C13",
+    "room_number": "General",
+    "complaint_text": "[Low] Nobody has told us the results of the Reinforcement Learning lab record, and Dr!!! Menon says TAs are checkin. We understand thee may be constraints, but it is solwing down our work.  Get Outlook for Android"
+  },
+  "153": {
+    "vector_id": 153,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "Feedbac: Peasse add workshops on MLOps, Docker and deploymen; we only learn theory in class. Uless fixxed fast, 20 students will miss the deadline."
+  },
+  "154": {
+    "vector_id": 154,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Respected  Sir/Madam, No co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. About 80 students are affected. Please look into it. Sincerely,"
+  },
+  "155": {
+    "vector_id": 155,
+    "category_id": "C8",
+    "room_number": "General",
+    "complaint_text": "[Critical] Python versions differ across lab machines so code that runs on one PC breaks on another. This needs action this week, it is serious."
+  },
+  "156": {
+    "vector_id": 156,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[High] My notebook matched the solution output but still lost marks, while a friend with the same code got full credit. Honestly this is unacceptable for an AIML department."
+  },
+  "157": {
+    "vector_id": 157,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "ok so review slots for the final-year project keep getting postponed without notice. everyone is fed up with this situation. request d department to take action.  Regards, Student, AIML 3rd yr"
+  },
+  "158": {
+    "vector_id": 158,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madam, Lecture slides for Deep Learning are not shared before class and the pace is too quick for notes. We understand there may be constraints, but it is slowing down our work. Kindly arrange a fix at the earliest. Regards,"
+  },
+  "159": {
+    "vector_id": 159,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Mediumm] Department JupyterHHub keeps throwing 500 errors and our saaved notebooks vanish. About 80 stuudents are affected."
+  },
+  "160": {
+    "vector_id": 160,
+    "category_id": "C29",
+    "room_number": "General",
+    "complaint_text": "[Low] Many power socckets at lab benches are dead and groups share one extension board. Students in the batch are a bit inconvenienced."
+  },
+  "161": {
+    "vector_id": 161,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "<p>guys the department should buy newer workstations and a small GPU cluster for students. it was mentioned earl"
+  },
+  "162": {
+    "vector_id": 162,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "WHAT PROBLEMS DID YOU FACE? THERE IS NO CLEAR RUBRIC FOR THE MACHINE LEARNING PROJECT; MARKS SEEM RANDOM BETWEEN BATCHES. THIS HAS BEEN HAPPENING SINCE SEPTEMBER."
+  },
+  "163": {
+    "vector_id": 163,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[High] Marks for d end-sem practical were reduced for 'coding style' that was never mentioned earlier. We keep losing time and marks bcz of this. 🔥😭"
+  },
+  "164": {
+    "vector_id": 164,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Marks for the mid-sem were reduced for 'coding style' that was never mentioned earlier. This is affecting our preparation for the mid-sem."
+  },
+  "165": {
+    "vector_id": 165,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "<p>hey all, colab free tier disconnects every hour and the department cluster is not accessible to students. this needs action this week, it is serious. please look into it. lmk</p><br>"
+  },
+  "166": {
+    "vector_id": 166,
+    "category_id": "C29",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madm, Many power sockets at lab benches are dead and groups share one extension board. Several gropus are behind schedule because of this. Kindly arrange a fix at the earlest. Sincerely,"
+  },
+  "167": {
+    "vector_id": 167,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "Feedback:  Internet  in  d lab keeps dropping, so we can't download datasets or pretrained models. Everyone is fed up with this situation."
+  },
+  "168": {
+    "vector_id": 168,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "<p>[MEDIUM] WE NEED REGULAR GUIDANCE ON MODEL EVALUATION BUT OUR GUIDE IS ALWAYS TRAVELLING. IT WAS MENTIONED EARLIER BUT NOTHING CHANGED.</p><br>"
+  },
+  "169": {
+    "vector_id": 169,
+    "category_id": "C50",
+    "room_number": "General",
+    "complaint_text": "Feedback: The mic in the departmnt smarrt class doesn't work so students at the back canot hear Prof. Kulkarni. It wuld be a great help if this is lookeed into soon."
+  },
+  "170": {
+    "vector_id": 170,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: dr!!! Menon covers backpropagation math in Natural Language Processing so fast that no one can follow the derivations. about 80 students are affected. request the department to take action. pls react if same"
+  },
+  "171": {
+    "vector_id": 171,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "feedback: there is no clear rubric for the natuarl language processing project; marks seem random between batches. this is afefcting our preparation for the lab viva."
+  },
+  "172": {
+    "vector_id": 172,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Additional  comments:  We  got only a score for the Reinforcement Learning programming asgmt with zero comments on what went wrong. This has been happening since the first week of October. 👍"
+  },
+  "173": {
+    "vector_id": 173,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Feedback: Dr. Reddy doesn't reply to mails regarding the AI Ethics mini projetc proposall. Unless fixed fas,t 45 students will miss the deadline."
+  },
+  "174": {
+    "vector_id": 174,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? We would like access to curated datasets and research papers for Big Data Analytics projects. About 60 students are affected."
+  },
+  "175": {
+    "vector_id": 175,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "darft for HOD: python versions differ across lab macines so code that runs on one PC breaks on another. it was mentioned earlier but nothing changed. kindly arrange a fix at the earliet. pls react if same"
+  },
+  "176": {
+    "vector_id": 176,
+    "category_id": "C51",
+    "room_number": "Tutorial Room 3",
+    "complaint_text": "Feedbback: The mic in tutorial room 3 doesn't work so students at the back cannot hear Prof. Kulkarni. About 80 students are affected."
+  },
+  "177": {
+    "vector_id": 177,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "[Loww] We need regular guidance on model evaluation but our guide is aways travelling. We understand there may be constraints, but it is sllowing down our work."
+  },
+  "178": {
+    "vector_id": 178,
+    "category_id": "C52",
+    "room_number": "Room A-204",
+    "complaint_text": "Dear Sir, The mic in classroom A-204 doesn't work so students at the back cannot hear Prof. Qureshi. Sutdents in the batch are a bit inconvenienced. Please sharre a timeline. Thanks, pls reply"
+  },
+  "179": {
+    "vector_id": 179,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Feedback: Review slots for d final-year project keep getting postponed without notice. We keep losing time and marks bcz of this. mail me at student631@gmail.com"
+  },
+  "180": {
+    "vector_id": 180,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Medium] Department JupyterHub keeps throwing 500 errors and our saved notebooks vanish. Several groups are behind schedule because of this."
+  },
+  "181": {
+    "vector_id": 181,
+    "category_id": "C19",
+    "room_number": "General",
+    "complaint_text": "what problems did you face? please introduce a dedicated elective on llm engineering and propt design. it was metnioned earlier but nothing changged."
+  },
+  "182": {
+    "vector_id": 182,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, Only two GPUs for the entire batch and the queue to train a CNN never moves. We keep losing time and marks because of this. Please look into it. Regards,"
+  },
+  "183": {
+    "vector_id": 183,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "[High] Please add workshops on MLOps, Docker and deployment; we only learn theory in class. This is the third time we are reporting this and nothing happens."
+  },
+  "184": {
+    "vector_id": 184,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "[Medium] Colab free tier disconnects every hour and d dept cluster is not accessible to stdnts Several groups are behind schedule bcz of this."
+  },
+  "185": {
+    "vector_id": 185,
+    "category_id": "C41",
+    "room_number": "General",
+    "complaint_text": "[Medium] Revaluation process for Data Mining is unclear and nobody replies to our queries. Several groups are behind schedule because of this."
+  },
+  "186": {
+    "vector_id": 186,
+    "category_id": "C53",
+    "room_number": "General",
+    "complaint_text": "Respected  Sir/Madam,  Nobody has told us the results of the Natural Language Processing lab record, and Dr. Banerjee says TAs are checking. Please escaalte this immediately. Request the department to take action. Regards, please jaldi dekho"
+  },
+  "187": {
+    "vector_id": 187,
+    "category_id": "C50",
+    "room_number": "General",
+    "complaint_text": "[Critical]  The  mic in AIML smeinar hall doesn't work so stdnts at d back cannot hear Dr. Reddy. Please escalate this asap"
+  },
+  "188": {
+    "vector_id": 188,
+    "category_id": "C54",
+    "room_number": "Data Science Lab",
+    "complaint_text": "HELLO SIR, PLEASE ALLOW WEEKEND ACCESS TO THE DATA SCIENCE LAB; LONG EXPERIMENTS CAN'T BE COMPLETED IN A 2-HOUR SLOT. IT WOULD BE A GREAT HELP IF THIS IS LOOKED INTO SOON. PLEASE LOOK INTO IT. SINCERELY,"
+  },
+  "189": {
+    "vector_id": 189,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "hey all, we would appreciate a response. there is no clear rubric for the Reinforcement Learning project; marks seem random between batches. this is affecting our preparation for the project review. kuch kaam nahi kar raha"
+  },
+  "190": {
+    "vector_id": 190,
+    "category_id": "C32",
+    "room_number": "Gpu Lab",
+    "complaint_text": "<p>hello sir, can a keycard system be arranged so final-year students can use the gpu lab at night? this is blocking my credits and the assignment deadline is next week. can this be resolved soon? sincerely,</p><br>"
+  },
+  "191": {
+    "vector_id": 191,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "hey all, kindly arrange a fix at the earliest. we keep losing time and marks because of this. marks for the Natural Language Processing quiz are yet to be uploaded and the project review is coming up. thoughts?"
+  },
+  "192": {
+    "vector_id": 192,
+    "category_id": "C55",
+    "room_number": "General",
+    "complaint_text": "feedback: the projector in the department smart class flickers and the code on slides is unreadable. this has been happening since mid october. 👍 (reminder)"
+  },
+  "193": {
+    "vector_id": 193,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "Additional comments: My project guide has not met our team for weeks and our end-sem practical is near. This has been happening since mid October."
+  },
+  "194": {
+    "vector_id": 194,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "respected sir/madam, my project giude has not met our team for weks and our lab viva is near. seve"
+  },
+  "195": {
+    "vector_id": 195,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Feedback: Lecture slides for Natural Language Processing are not shared before class and the pace is too quick for notes. We keep losing time and marks because of this."
+  },
+  "196": {
+    "vector_id": 196,
+    "category_id": "C22",
+    "room_number": "Tutorial Room 3",
+    "complaint_text": "Hello Sir, Chairs in tutorial room 3 are broken and there aren't enough seats for the whole batch. We understand there may be constraints, but it is slowing down our work. Please share a timeline. Regards, Contact: 9834610768"
+  },
+  "197": {
+    "vector_id": 197,
+    "category_id": "C52",
+    "room_number": "Room A-204",
+    "complaint_text": "guys please look into it. the mic in classroom A-204 doesn't work so students at the back cannot hear Dr. Reddy. students in the batch are a bit inconvenienced. thoughts?"
+  },
+  "198": {
+    "vector_id": 198,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? Assignments submitted for Probabilistic Models September are still not graded or returned. We understand there may be constraints, but it is sl !!"
+  },
+  "199": {
+    "vector_id": 199,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Feedback: Marks for the project review were reduced for 'coding style' that was never mentioned earlier. Honestly this is unacceptable for an AIML department. 👍🙏"
+  },
+  "200": {
+    "vector_id": 200,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "ADDITIONAL  COMMENTS: ONLY TWO GPUS FOR THE ENTIRE BATCH AND THE QUEUE TO TRAIN A CNN NEVER MOVES. THIS IS AFFECTING OUR PREPARATION FOR THE MID-SEM."
+  },
+  "201": {
+    "vector_id": 201,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: can this be resolved soon? internet in the lab keeps dropping, so we can't download datasets or pretrained models. this is affecting our preparation for the lab viva. lmk"
+  },
+  "202": {
+    "vector_id": 202,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Low] No co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. stdnts in d batch are a bit inconvenienced. mail me at student380@gmail.com"
+  },
+  "203": {
+    "vector_id": 203,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "see attachment"
+  },
+  "204": {
+    "vector_id": 204,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "hello is this working"
+  },
+  "205": {
+    "vector_id": 205,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, Too much theory in Big Data Analytics and hardly any hands-on coding examples durng lectures!!! About 45 students are affected. Please share a timeline. Sincerely, 😤🔥"
+  },
+  "206": {
+    "vector_id": 206,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "[Medium] Too much theory in AI Ethics and hardly any hands-on coding examples during lectures. Several groups are behind schedule because of this."
+  },
+  "207": {
+    "vector_id": 207,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Corridor lights outside the lab are out, making it unsafe after evening classes. This is the third time we are reporting this and nothing happens."
+  },
+  "208": {
+    "vector_id": 208,
+    "category_id": "C32",
+    "room_number": "Gpu Lab",
+    "complaint_text": "Any suggestions for the department? Systems in the GPU lab are extremely slow, with 8 GB RAM and frequent hangs during dataset loading. It was mentioned earlier but nothing changed."
+  },
+  "209": {
+    "vector_id": 209,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Feedback: Corridor lights outsied the lab are out, making it unsafe after evening classes. Several groups are behind schedue because of this."
+  },
+  "210": {
+    "vector_id": 210,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? We got only a score for the Computer Vision programming"
+  },
+  "211": {
+    "vector_id": 211,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[CRITICAL] MARKS FOR THE INTERNAL TEST WERE REDUCED FOR 'CODING STYLE' THAT WAS NEVER MENTIONED EARLIER. UNLESS FIXED FST, 60 STUDENTS WILL MISS THE DEADLINE."
+  },
+  "212": {
+    "vector_id": 212,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Lecture slides for Reinforcement Learning are not shared before class and the pace is too quick for notes. Python versions differ across lab machines so code that runs on one PC breaks on another. Everyone is fed up with this situation. Request the department to take action. Regards,"
+  },
+  "213": {
+    "vector_id": 213,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Critical] Colab free tier disconnects every hour and the department cluster is not accessible to students. This is blocking my credits and the mid-sem is next week."
+  },
+  "214": {
+    "vector_id": 214,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "ANY SUGGESTIONS FOR THE DEPARTMENT? INTERNET IN THE LAB KEEPS DROPPING, SO WE CAN'T DOWNLOAD DATASETS OR PRETRAINED MODELS. REVIEW SLOTS FOR THE FINAL-YEAR PROJECT KEEP GETTING POSTPONED WITHOUT NOTICE. STUDENTS IN THE BATCH ARE A BIT INCONVENIENCED."
+  },
+  "215": {
+    "vector_id": 215,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "hey all, please look into it. we understand there may be constraints, but it is slowing down our work. we need regular guidance on model evaluation but our guide is always travelling. pls react if same  Get Outlook for Android"
+  },
+  "216": {
+    "vector_id": 216,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Corridor lights outside the lab are out, making it unsafe after evening classes. Everyone is fed up with this situation. 😤😡"
+  },
+  "217": {
+    "vector_id": 217,
+    "category_id": "C22",
+    "room_number": "Tutorial Room 3",
+    "complaint_text": "Additional comments: Chairs in tutorial room 3 are broken and there aren't enough seats for the whole batch. We keep losing time and marks because of this."
+  },
+  "218": {
+    "vector_id": 218,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Corridor lights outside the lab are out, making it unsafe after evening classes. Please escalate this immediately. We would appreciate a response. Sincerely,"
+  },
+  "219": {
+    "vector_id": 219,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? Too much theory in Big Data Analytics and hardly any hands-on coding examples during lectures. It was mentioned earlier but nothing changed. kuch kaam nahi kar raha"
+  },
+  "220": {
+    "vector_id": 220,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "any  suggestions  for  the department? keyboards, mice and monitors in the ml lab are broken and nobody replaces them. we understand there may be constraints, but it is slowing down our work."
+  },
+  "221": {
+    "vector_id": 221,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "[Low] The department should buy newer workstations and a small GPU cluster for students. Students in the batch are a bit inconvenienced. 😞🙏👍"
+  },
+  "222": {
+    "vector_id": 222,
+    "category_id": "C7",
+    "room_number": "Seminar Hall",
+    "complaint_text": "hey all, the mic in aiml seminar hall doesn't work so students at the back cannot hear prof. kulkarni. this is blocking my credits and the end-sem practical is next week. please look into it. pls react if same"
+  },
+  "223": {
+    "vector_id": 223,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, Lecture slides for Deep Learning are not shared beforre class and the pace is too quick for notes. We understand there may be constraints, but it is slowing down our work. Rqeuest the department to take action. Regards,\n\nSent from my iPhone (reminder)"
+  },
+  "224": {
+    "vector_id": 224,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[medium] feedback comes so late that we repeat d same mistakes in d next asgmt abt 20 stdnts are affected."
+  },
+  "225": {
+    "vector_id": 225,
+    "category_id": "C33",
+    "room_number": "General",
+    "complaint_text": "ADDITIONAL COMMENTS: TOO MUCH THEORY IN DATA MINING AND HARDLY ANY HANDS-ON CODING EXAMPLES DURING LECTURES. TEAMS PREPARING FOR THE END-SEM PRACTICAL NEED LATE EVENING ACCESS TO THE LAB SYSTEMS. SEVERAL GROPS ARE BEHIND SCHEDULE BECAUSE OF THIS.  Get Outlook for Android"
+  },
+  "226": {
+    "vector_id": 226,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "hey all, marks for the Computer Vision quiz are yet to be uploaded and the midâ€“sem is coming up. this is affecting our preparation for the midâ€“sem. please look into it."
+  },
+  "227": {
+    "vector_id": 227,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: this needs action this week, it is serious. kindly arrange a fix at the earliest. two TAs gave different marks for the same model accuracy and report in Computer Vision."
+  },
+  "228": {
+    "vector_id": 228,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "drft for HOD: cUDA is not deetected on most lab systems since 2 weeks ago; we cann't run our Machine Learning notebooks. this needs action this week, it is serious. request the department to take action."
+  },
+  "229": {
+    "vector_id": 229,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Feedback: Assignments submitted for Computer Vision the first week of October are still not graded or returned. We understand there may be constraints, but it is slowing down our work."
+  },
+  "230": {
+    "vector_id": 230,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Two TAs gave different marks for the same model accuracy and report in Reinforcement Learning. This is affecting our preparation for the Kaggle-style mini project."
+  },
+  "231": {
+    "vector_id": 231,
+    "category_id": "C40",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "[Low] The GPU machines in the AIML research lab are always occupied or down, so Probabilistic Models model training takes days on CPU. This is afecting our preparation for the end-sem practical."
+  },
+  "232": {
+    "vector_id": 232,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Dear  HOD,  My project guide has not met our team for weeks and our internal test is near. Several groups are behind schedule because of this. Please share a timeline. Thanks,\n\nSent from my iPhone"
+  },
+  "233": {
+    "vector_id": 233,
+    "category_id": "C56",
+    "room_number": "Ai Lab",
+    "complaint_text": "hey all, about 12 students are affected. keyboards, mice and monitors in the AI lab are broken and nobody replaces them. can this be resolved soon? mail me at student690@gmail.com"
+  },
+  "234": {
+    "vector_id": 234,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madam, The Reinforcement Learning syllabus still talks abt old techniques while d industry uses transformers and LLMs. abt 80 stdnts are affected. Request d dept to take action. Thanks,"
+  },
+  "235": {
+    "vector_id": 235,
+    "category_id": "C43",
+    "room_number": "Seminar Hall",
+    "complaint_text": "[Medium] The projector in AIML seminar hall flickers and the code on slides is unreadable!!! Several groupps are behind schedule because of thsi. (reminder)"
+  },
+  "236": {
+    "vector_id": 236,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Additional  comments: Department JupyterHub keeps throwing 500 errors and our saved notebooks vanish. This is affecting our preparation for the lab viva."
+  },
+  "237": {
+    "vector_id": 237,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "hey all, there is no clear rubric for the Probabilistic Models project; marks seem random between batches. it was mentioned earlier but nothing changed. we would appreciate a response. pls react if same"
+  },
+  "238": {
+    "vector_id": 238,
+    "category_id": "C29",
+    "room_number": "General",
+    "complaint_text": "Feedback:  Many power sockets at lab benches are dead and groups share one extension board. This is blocking my credits and the internal test is next week."
+  },
+  "239": {
+    "vector_id": 239,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Requesting cloud credits (AWS/GCP/Azure) for Computer Vision projects, free tiers aren't enough for experiments. Students in the batch are a bit inconvenienced."
+  },
+  "240": {
+    "vector_id": 240,
+    "category_id": "C33",
+    "room_number": "General",
+    "complaint_text": "<p>What problems did you face? Please allow weekend access to the ML lab; long experiments can't be completed in a 2-hour slot. Department JupyterHub keeps throwing 500 errors and our saved notebooks vanish. We keep losing time and marks because of this.</p><br>"
+  },
+  "241": {
+    "vector_id": 241,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madam, Several topics in Big Data Analytics were skipped but they appear in the question bank. We understand there may be constraints, but it is slowing down our work. Can this be resolved soon? Thanks,"
+  },
+  "242": {
+    "vector_id": 242,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Any  suggestions for the department? Lecture slides for AI Ethics are not shared before class and the pace is too quick for notes. Please escalate this immediately."
+  },
+  "243": {
+    "vector_id": 243,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "ok so marks for the internal test were reduced for 'coding style' that was never mentioned earlier. this needs action this week, it is serious. request the department to take action. pls react if same"
+  },
+  "244": {
+    "vector_id": 244,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Feedback comes so late that we repeat the same mistakes in the next assignment. Honestly this is unacceptable for an AIML department."
+  },
+  "245": {
+    "vector_id": 245,
+    "category_id": "C41",
+    "room_number": "General",
+    "complaint_text": "[Critical] Revaluation process for Reinforcement Learning is unclear and nobody replies to our queries. Unless fixed fast, 12 students will miss the deadline."
+  },
+  "246": {
+    "vector_id": 246,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: several groups are behind schedule because of tihs. lab sessions for Big Data Analytics are too short, we barely finish setup before time is over. we would appreciate a response. lmk"
+  },
+  "247": {
+    "vector_id": 247,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "hey all, d ML lab closes at 5 pm, which is too early for training runs and project work. stdnts in d batch are a bit inconvenienced. we would appreciate a response. thoughts?"
+  },
+  "248": {
+    "vector_id": 248,
+    "category_id": "C56",
+    "room_number": "Ai Lab",
+    "complaint_text": "Any suggestions for d department? Student licence for MATLAB and d deep learning toolbox has expired in AI lab, blocking Reinforcement Learning assignments. stdnts in d batch are a bit inconvenienced."
+  },
+  "249": {
+    "vector_id": 249,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Critical] Department JupyterHub keeps throwing 500 errors and our saved notebooks vanish. This is blocking my credits and the internal test is next week. mail me at student914@gmail.com"
+  },
+  "250": {
+    "vector_id": 250,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "[High] Too much theory in Natural Language Processing and hardly any hands--on coding exmples during lectures. Our transformer fine-tuning keeps getting killed because d shared server runs out of memory. This is d third time we are reporting this and nothing happens."
+  },
+  "251": {
+    "vector_id": 251,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Medium] Marks for d asgmt deadline were reduced for 'coding style' that was never mentioned earlier. Several groups are behind schedule bcz of this."
+  },
+  "252": {
+    "vector_id": 252,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[High] Dr. Joshi doesn't reply to mails regarding d Natural Language Processing mini project proposal. Everyone is fed up with this situation."
+  },
+  "253": {
+    "vector_id": 253,
+    "category_id": "C33",
+    "room_number": "General",
+    "complaint_text": "ok so teams preparing for the assignment deadline need late evening access to the lab systems. students in the batch are a bit inconvenienced. request the department to take action. please jaldi dekho"
+  },
+  "254": {
+    "vector_id": 254,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "guys too much theory in Natural Language Processing and hardly any hands-on coding examples during lectures. this is blocking my credits and the mid-sem is next week. we would appreciate a response."
+  },
+  "255": {
+    "vector_id": 255,
+    "category_id": "C42",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "Rspected Sir/Maam, Student licecne for MATLAB and the deep learning toolbox has expired in AIML research lab, blocking Compuetr Vision assignments. Please escalate this immediately. Kiindly arrane a fix at the earliets. Thanks,"
+  },
+  "256": {
+    "vector_id": 256,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "<p>[Medium] We would like access to curated datasets and research papers for Computer Vision projects. It was mentioned earlier but noth"
+  },
+  "257": {
+    "vector_id": 257,
+    "category_id": "C32",
+    "room_number": "Gpu Lab",
+    "complaint_text": "[high] we got only a score for the deep learning programming assignment, with zero comments on what went wrong. systems in the gpu lab are extremely slow, with 8 gb ram and frequent hangs during dataset loading. t"
+  },
+  "258": {
+    "vector_id": 258,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, Requesting cloud credits (AWS/GCP/Azure) for Natural Language Processing projects, free tiers aren't enough for experiments. This needs action this week, it is serious. Please look into it. Sincerely,"
+  },
+  "259": {
+    "vector_id": 259,
+    "category_id": "C30",
+    "room_number": "Ai Lab",
+    "complaint_text": "Additional comments: The GPU machines in the AI lab are always occupied or donw, so Big Data Analytics model training takes days on CPU. About 20 students are affecetd."
+  },
+  "260": {
+    "vector_id": 260,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "no complaints but need better 😭😤😤"
+  },
+  "261": {
+    "vector_id": 261,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, No co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. We keep losing time and marks because of this. Kindly arrange a fix at the earliest. Sincerely, sir please help"
+  },
+  "262": {
+    "vector_id": 262,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Medium] Department JupyterHub keeps throwing 500 errors and our saved notebooks vansh. This has been happening since the first week of October. kuch kaam nahi kar raha"
+  },
+  "263": {
+    "vector_id": 263,
+    "category_id": "C43",
+    "room_number": "Seminar Hall",
+    "complaint_text": "FEEDBACK: THE PROJECTOR IN AIML SEMINAR HALL FLICKERS AND THE CODE ON SLIDES IS UREADABLE. SEVERAL GROUPS ARE BEHIND SCHEDULE BECAUSE OF THIS."
+  },
+  "264": {
+    "vector_id": 264,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "drft for HOD: cUDA is not deetected on most lab systems since 2 weeks ago; we cann't run our Machine Laerning notebooks. this needs action this week, it is serious. request the dpeartment to take action. !!"
+  },
+  "265": {
+    "vector_id": 265,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "[High] Internet in d lab keeps dropping, so we can't download datasets or pretrained models. This is the third time we are reporting this and nohting happens. Contact: 9853647020"
+  },
+  "266": {
+    "vector_id": 266,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Low] Marks for the mid-sem were reduced for 'coding style' that was never mentioned ealier. We undderstand there may be constraints, but it is slowing down our wokr."
+  },
+  "267": {
+    "vector_id": 267,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "[Medium] We got only a score for the Machine Learning programming assignment, with zero comments on what went wrong. Several groups are behind schedule because of this."
+  },
+  "268": {
+    "vector_id": 268,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "<p>[Medium] We would like access to curated datasets and research papers for Computer Vision projects. This has been happening since September. bilkul bekaar hai</p><br>"
+  },
+  "269": {
+    "vector_id": 269,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Corridor lights outside the lab are out, making it unsafe after evening classes. This is blocking my credits and the internal test is next week."
+  },
+  "270": {
+    "vector_id": 270,
+    "category_id": "C22",
+    "room_number": "Tutorial Room 3",
+    "complaint_text": "guys chairs in tutorial room 3 are broken and there arenâ€™t enough seats for the whole batch. about 20 students are affected. we would appreciate a response."
+  },
+  "271": {
+    "vector_id": 271,
+    "category_id": "C57",
+    "room_number": "Data Science Lab",
+    "complaint_text": "What problems did u face? Can a keycard system be arranged so final-year students can use d Data Science lab at night? This has been happening since since d semester began!!!"
+  },
+  "272": {
+    "vector_id": 272,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "feedback: the computer vision syllabus still talks about old techniques while the industry uses transformers and llms. please escalate this immediately. see https://bit.ly/ayaa3b"
+  },
+  "273": {
+    "vector_id": 273,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[low] we cannot pip innstall anything on lab systems, internet filters bock half of the libraries. this is affecting our preparation for the assignment deadline. koi sunta hi nahi"
+  },
+  "274": {
+    "vector_id": 274,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: student licence for MATLAB and the deep learning toolbx has expired in ML lab, blocking Reinforceemnt Learning assignments. several groups are behind schedule because of this. request the department to take actoin. pls react if same"
+  },
+  "275": {
+    "vector_id": 275,
+    "category_id": "C41",
+    "room_number": "General",
+    "complaint_text": "ok  so  revaluation  process for Deep Learning is unclear and nobody replies to our queries. it would be a great help if this is looked into soon. kindly arrange a fix at the earliest. thoughts?"
+  },
+  "276": {
+    "vector_id": 276,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "[High] The AIML reseacrh lab closes at 5 pm, which is too early for training runs and project work. We keep losing time and marks because of this. pls reply"
+  },
+  "277": {
+    "vector_id": 277,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: too much theory in Machine Learning and hardly any hands-on coding examples during lectures. several groups are behind schedule because of this. can this be resolved soon?  Regards, Student, AIML 3rd yr"
+  },
+  "278": {
+    "vector_id": 278,
+    "category_id": "C33",
+    "room_number": "General",
+    "complaint_text": "RESPECTED SIR/MADAM, TEAMS PREPPARING FOR d END-SEM PRACTICAL NEED LATE EVENING ACCESS TO d LAB SYSTEMS. SVERAL GROUPS ARE BEHIND SCHEDULE bcz OF THIS. pls SHARE A TIMELINE. REGARDS, bohot slow hai"
+  },
+  "279": {
+    "vector_id": 279,
+    "category_id": "C58",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "Additional comments: Systems in the AIML research lab are extremely slow, with 8 GB RAM and frequent hangs during dataset loading. It would be a great help if this is looked into soon. bohot slow hai"
+  },
+  "280": {
+    "vector_id": 280,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "<p>poor facilities</p><br>"
+  },
+  "281": {
+    "vector_id": 281,
+    "category_id": "C13",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Nobody has told us the results of the Machine Learning lab record, and Dr. Banerjee says TAs are checking. It was mentioned earlier but nothing changed. Contact: 9830701474"
+  },
+  "282": {
+    "vector_id": 282,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Critical] We got only a score for the Deep Learning programming assignment, with zero comments on what went wrong. Please escalate this immediately."
+  },
+  "283": {
+    "vector_id": 283,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "Addittional comments: Only two GPUs for d entire batch and d queue to train a CNN never moves. This is affecting our preparation for d mid-sem."
+  },
+  "284": {
+    "vector_id": 284,
+    "category_id": "C41",
+    "room_number": "General",
+    "complaint_text": "Feedback: Revaluation process for Deep Learning is unclear and nobody replies to our queries. It would be a great help if this is looked into soon."
+  },
+  "285": {
+    "vector_id": 285,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "[Low]  CUDA  is not detected on most lab systems since September; we can't run our AI Ethics notebooks. This is affecting our preparation for the assignment deadline."
+  },
+  "286": {
+    "vector_id": 286,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Additional comments: There is no clear rubric for the Probabilistic Models project; marks seem random between batches. Students in the batch are a bit inconvenienced. mail me at student27@gmail.com"
+  },
+  "287": {
+    "vector_id": 287,
+    "category_id": "C19",
+    "room_number": "General",
+    "complaint_text": "Feedback: Please introduce a dedicated elective on LLM engineering and prompt design. We understand there may be constraints, but it is slowing down our work. 🔥😞🔥"
+  },
+  "288": {
+    "vector_id": 288,
+    "category_id": "C43",
+    "room_number": "Seminar Hall",
+    "complaint_text": "[Medium] The projector in AIML seminar hall flickers and the code on slides is unreadable!!! Several groupps are behind schedule because of this."
+  },
+  "289": {
+    "vector_id": 289,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, We need regular guidance on model evaluation but our guide is always travelli"
+  },
+  "290": {
+    "vector_id": 290,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[critical] my noetbook matched the solution output but still lost marks, while a friend with the same code got full crediit. this needs action this wek, it is serious."
+  },
+  "291": {
+    "vector_id": 291,
+    "category_id": "C24",
+    "room_number": "Gpu Lab",
+    "complaint_text": "Any  suggesstions for the department? The AC in the GPU lab has been off since September; the room is unbearably hot and PCs shut down. We keep losing time and marks beacuse of this.  Get Outlook for Android"
+  },
+  "292": {
+    "vector_id": 292,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "<p>[Medium] We got only a score for d Deep Learning programming asgmt with zero comments on what went wrong. This has been happening since d first week of October.</p><br>"
+  },
+  "293": {
+    "vector_id": 293,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "see attachment"
+  },
+  "294": {
+    "vector_id": 294,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "ok so many poweer sockets at lab benches are dead and groups share one extension boar.d can this be resolved sooon? we keep losing time and marks bcz of thi. lmk"
+  },
+  "295": {
+    "vector_id": 295,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Respected  SirM/adam,  The  Big Data Analytics syllabsu still talks about old techhniques wile the industry uses transforers and LLMs. Please escalate this immediately. Kindly arrange a fix at the earliest. Thaanks,"
+  },
+  "296": {
+    "vector_id": 296,
+    "category_id": "C53",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, Nobody has told us the results of the Computer Vision lab record, and Prof. Nambiar says TAs are checking. Unless fixed fast, 20 students will miss the deadline. Can this be rsolved soon? Thanks,"
+  },
+  "297": {
+    "vector_id": 297,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[High]  Marks  for the Deep Learning quiz are yet to be uploaded and the internal test is coming up. Everyone is fed up with this situation."
+  },
+  "298": {
+    "vector_id": 298,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "[Medium] The GPU machines in the ML lab are always occupied or down, so Reinforcement Learning model training takes days on CPU. The department should buy newer workstations and a small GPU cluster for students. This has been happening since 2 weeks ago. kuch kaam nahi kar raha"
+  },
+  "299": {
+    "vector_id": 299,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, Feedback comes so late that we repeat the same mistakes in the next assignment. Please escalate this immediately. We would appreciate a response. Regards, mail me at student420@gmail.com"
+  },
+  "300": {
+    "vector_id": 300,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Medium] Industry guest lectures on LLMs and generative AI would make Deep Learinng more relevant. Abo"
+  },
+  "301": {
+    "vector_id": 301,
+    "category_id": "C39",
+    "room_number": "General",
+    "complaint_text": "??? bohot slow hai"
+  },
+  "302": {
+    "vector_id": 302,
+    "category_id": "C57",
+    "room_number": "Data Science Lab",
+    "complaint_text": "guys aout 30 sutdents are affected. can this be resolved soon? the AC in d Data Science lab has been off since last month; d room is unbearably hot and PCs shut down. thoughts?"
+  },
+  "303": {
+    "vector_id": 303,
+    "category_id": "C59",
+    "room_number": "Tutorial Room 3",
+    "complaint_text": "dear sir, the projetor in tutorial room 3 flickeers and the code on slides is unrreadable. it was mentoined earlier but nothing chanegd. request the department to take action. sincerely,"
+  },
+  "304": {
+    "vector_id": 304,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "Feedback: Pleasse add workshops on MLOps, Docker and deployment; we only learn theory in class. Uless fixxed fast, 20 students will miss the deadline."
+  },
+  "305": {
+    "vector_id": 305,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, CUDA is not detected on most lab systems since September; we can't run our Probabilistic Models notebooks. This has been happening since September. Can this be resolved soon? Thanks, sir please help see https://bit.ly/cxab2c  Regards, Student, AIML 3rd yr"
+  },
+  "306": {
+    "vector_id": 306,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Additional comments: We got only a score for the Natural Language Processing programming assignment, with zero comments on what went wrong. This is affecting our preparation for the project review."
+  },
+  "307": {
+    "vector_id": 307,
+    "category_id": "C32",
+    "room_number": "Gpu Lab",
+    "complaint_text": "[High] Systems in the GPU lab are extremely slow, with 8 GB RAM and frequent hangs duuring dataset loading. Everyone is fed up with this situation."
+  },
+  "308": {
+    "vector_id": 308,
+    "category_id": "C36",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? We cannot pip install anything on lab systems, internet filters block half of the libraries. About 12 students are affected. bohot slow hai"
+  },
+  "309": {
+    "vector_id": 309,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "hey all, it was mentioned earlier but nothing changed. can this be resolved soon? corridor lights outside d lab are out, making it unsafe after evening classes. thoughts? 😤"
+  },
+  "310": {
+    "vector_id": 310,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "guys student licence for matlab and the deep learning toolbox has expired in ml lab, blocking computer vision assignments. this needs action this week, it is serious. we would appreciate a response."
+  },
+  "311": {
+    "vector_id": 311,
+    "category_id": "C52",
+    "room_number": "Room A-204",
+    "complaint_text": "Respected Sir/Madam, The mic in classroom A-204 doesn't work so students at the back cannot hear Dr. Reddy. Everyone is fed up with this situation. Request the department to take action. Sincerely,"
+  },
+  "312": {
+    "vector_id": 312,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Water dispenser on d AIML floor has been empty since d first week of October. This is affecting our preparation for d asgmt deadline. We would appreciate a response. Sincerely,  Get Outlook for Android"
+  },
+  "313": {
+    "vector_id": 313,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Several topics in Computer Vision were skipped but they appear in the question bank. stdnts in d batch are a bit inconvenienced."
+  },
+  "314": {
+    "vector_id": 314,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, Prof!!! Iyer doesn't reply to mails regarding the Deep Learning mini project proposal. Everyone is fed up with this situation. Please look into it. Regards, yaar"
+  },
+  "315": {
+    "vector_id": 315,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "guys please share a timeline. about 45 students are affected. lecture slides for Reinforcement Learning are not shared before class and the pace is too quick for notes."
+  },
+  "316": {
+    "vector_id": 316,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Medium] Two TAs gave different marks for the same model accuracy and report in Big Data Analytics. This has been happening since last month."
+  },
+  "317": {
+    "vector_id": 317,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, We would like access to curated datasets and research papers for AI Ethics projects. Honestl"
+  },
+  "318": {
+    "vector_id": 318,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Medium] Two TAs gave different marks for the same model accuracy and report in Reinforcement Learning. About 80 students are affected."
+  },
+  "319": {
+    "vector_id": 319,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "draft for hod: prrof. iyer doesn't reply to mails regarding the big data analyitcs mini project proposal. pleaes look into it. we understand there may be constraints, but it is slowing down our work. lmk  --  Sent from my Android"
+  },
+  "320": {
+    "vector_id": 320,
+    "category_id": "C32",
+    "room_number": "Gpu Lab",
+    "complaint_text": "guys we would appreciate a response. honestly this is unacceptable for an AIML department. the AC in the GPU lab has been off since 20 October; the room is unbearably hot and PCs shut down."
+  },
+  "321": {
+    "vector_id": 321,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Respected  Sir/Madam, Lab sessions for Data Minnig are too short, we barely finihs setp before time is over!!! We keep losing time and marks because of this. We woudl appreciate a response. Regards,"
+  },
+  "322": {
+    "vector_id": 322,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "labs are bad koi sunta hi nahi"
+  },
+  "323": {
+    "vector_id": 323,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "<p>guys my project guide has not met our team for weeks and our end-sem practical is near. this needs action this week, it is serious. please share a timeline. lmk</p><br>  CONFIDENTIAL: this message is intended only for the addressee."
+  },
+  "324": {
+    "vector_id": 324,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "ADDITIONAL COMMENTS: MY NOTEBOOK MATCHED THE SOLUTION OUTPUT BUT STILL LOST MARKS, WHILE A FRIEND WITH THE SAME CODE GOT FULL CREDIT. OUR TRANSFORMER FIN"
+  },
+  "325": {
+    "vector_id": 325,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Feedback: Marks for the Reinforcement Learning quiz are yet to be uploaded and the mid-sem is coming up. This has been happening since last month."
+  },
+  "326": {
+    "vector_id": 326,
+    "category_id": "C18",
+    "room_number": "General",
+    "complaint_text": "<p>hey all, marks for the project review were reduced for 'coding style' that was never mentioned earlier. this is blocking my credits and the project review is next week. can this be resolved soon? lmk</p><br>"
+  },
+  "327": {
+    "vector_id": 327,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "[High]  We  need regular guidance on model evaluation but our guide is always travelling. This is d third time we are reporting this and nothing happens. 🔥😞  CONFIDENTIAL: this message is intended only for the addressee."
+  },
+  "328": {
+    "vector_id": 328,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "<p>ok  so  review  slots for the final-year project keep getting postponed without notice. this has been happening since last month. kindly arrange a fix at the earliest. pls react if same</p><br>"
+  },
+  "329": {
+    "vector_id": 329,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "feedback: we need regular guidance on model evaluation but our guide is always travelling. about 30 students are affected."
+  },
+  "330": {
+    "vector_id": 330,
+    "category_id": "C32",
+    "room_number": "Gpu Lab",
+    "complaint_text": "[High]  Please  allow weekend access to the GPU lab; long experiments can't be completed in a 2-hour slot. Honestly this is unacceptable for an AIML department."
+  },
+  "331": {
+    "vector_id": 331,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "<p>Hello Sir, Two TAs gave different marks for the same model accuracy and report in Computer Vision. About 20 students are affected. Request the department to take action. Thanks, please jaldi dekho</p><br>"
+  },
+  "332": {
+    "vector_id": 332,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "hey all, kindly arrange a fix at the earliest. we keep losing time and marks because of this. marks for the Natural Language Processing quiz are yet to be uploaded and the project review is coming up. thoughts?"
+  },
+  "333": {
+    "vector_id": 333,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Medium] Lecture slides for Deep Learning are not shared before class and the pace is too quick for notes!!! This has been happening since since the semester began.  --  Sent from my Android"
+  },
+  "334": {
+    "vector_id": 334,
+    "category_id": "C22",
+    "room_number": "Tutorial Room 3",
+    "complaint_text": "Feedback: Chairs in tutorial room 3 are broken and there aren't enough seats for the whole batch. This is affecting our preparation for the end-sem practical.  Regards, Student, AIML 3rd yr"
+  },
+  "335": {
+    "vector_id": 335,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Critical] Assignments submitted for Machine Learning 20 October are still not graded or returned. Unless fixed fast, 45 students will miss the deadline.  CONFIDENTIAL: this message is intended only for the addressee."
+  },
+  "336": {
+    "vector_id": 336,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madam, Several topics in Reinforcement Learning were s"
+  },
+  "337": {
+    "vector_id": 337,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: marks for the lab viva were reduced for 'coding ste' that was nveer mentioned earlier. about 20 studennts are affected. please share a timelne. pls reaact if same 😤😞 !!"
+  },
+  "338": {
+    "vector_id": 338,
+    "category_id": "C47",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "Additional comments: Please allow weekend access to the AIML research lab; long experiments can't be completed in a 2-hour slot. We keep losing time and marks because of this."
+  },
+  "339": {
+    "vector_id": 339,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "ok!!!  CONFIDENTIAL: this message is intended only for the addressee."
+  },
+  "340": {
+    "vector_id": 340,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "additional comments: my project guide has not met our team for weeks and our assignment deadline is near. several groups are behind schedule because of this."
+  },
+  "341": {
+    "vector_id": 341,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Revalation process for Machine Learning is unclear and nobody replies to our queries. This is blocking my credits and the Kaggle-style mini project is next week. Kindly arrange a fix at the earliest. Thanks,"
+  },
+  "342": {
+    "vector_id": 342,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "NOTHING WORKS HERE"
+  },
+  "343": {
+    "vector_id": 343,
+    "category_id": "C60",
+    "room_number": "Room B-110",
+    "complaint_text": "[Medium] The mic in room B-110 doen't work so students at the back cannnot hear Dr. Menon. Several groups are bheind schedule becaause of this."
+  },
+  "344": {
+    "vector_id": 344,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Any  suggestions  for  the department? Two TAs gave different maarks for the same model acccuracy and report in Reinforcement Learning. This is bloccking my creits and the Kaggle-style mini project is next week."
+  },
+  "345": {
+    "vector_id": 345,
+    "category_id": "C29",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Many power sockets at lab benches are dead and groups share one extension board. About 12 students are affected. Kindly arrange a fix at the earliest. Sincerely,"
+  },
+  "346": {
+    "vector_id": 346,
+    "category_id": "C43",
+    "room_number": "Seminar Hall",
+    "complaint_text": "Dear HOD, The projector in AIML seminar hall flickers and the code on slides is unreadable. We keep losing time and marks because of this. We would appreciate a response. Regards,"
+  },
+  "347": {
+    "vector_id": 347,
+    "category_id": "C14",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: marks for the lab viva were reduced for 'coding stye' that was nveer mentioned earlier. about 20 stuennts are affected. please share a timeline. pls reaact if same 😤😞 (reminder)"
+  },
+  "348": {
+    "vector_id": 348,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "[High] Prof!!! Nambiar covers backpropagation math in Deep Learning so fast that no one can follow the derivations. We keep losing time and marks because of this."
+  },
+  "349": {
+    "vector_id": 349,
+    "category_id": "C49",
+    "room_number": "Seminar Hall",
+    "complaint_text": "Additional comments: Chairs in AIML seminar hall are broken and there aren't enough seats for the whole batch. This has been happening since mid October."
+  },
+  "350": {
+    "vector_id": 350,
+    "category_id": "C39",
+    "room_number": "General",
+    "complaint_text": "[Low] There is no cleear rubric for the Computer Vision project; marks seem random between batches. This is affecting our preparation for the midâ€“sem."
+  },
+  "351": {
+    "vector_id": 351,
+    "category_id": "C7",
+    "room_number": "Seminar Hall",
+    "complaint_text": "Dear Sir, The mic in AIML seminar hall doesn't work so students at the back cannot hear Prof!!! Qureshi. This is blocking my credits and the Kaggle-style mini project is next week. Can this be resolved soon? Sincerely,"
+  },
+  "352": {
+    "vector_id": 352,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "[High] The department should buy newer workstations and a small GPU cluster for students. This is the third time we are reporting this and nothing happens. koi sunta hi nahi"
+  },
+  "353": {
+    "vector_id": 353,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, We need regular guidance on model evaluation but our guide is always travelling. It would be a great help if this is looked into soon. Please share a timeline. Regards, see https://bit.ly/c1z1ab"
+  },
+  "354": {
+    "vector_id": 354,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "see attachment"
+  },
+  "355": {
+    "vector_id": 355,
+    "category_id": "C32",
+    "room_number": "Gpu Lab",
+    "complaint_text": "[Medium] Can a keycard system be arranged so final-year students can use the GPU lab at night? Several groups are behind schedule because of this."
+  },
+  "356": {
+    "vector_id": 356,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "[HIGH] d AIML REESEARCH LAB CLOSES AT 5 PM, WHICH IS TOO EARLY FOR TRAINING RUNS AND PROJECT WORK. WE KEEP LOSIN"
+  },
+  "357": {
+    "vector_id": 357,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Low] Department JupyterHub keeps throwing 500 errors and our saved notebooks vanish. It would be a great help if this is looked into soon."
+  },
+  "358": {
+    "vector_id": 358,
+    "category_id": "C36",
+    "room_number": "General",
+    "complaint_text": "[Low] We cannot pip install anything on lab systems, internet filters block half of the libraries. We understand there may be constraints, but it is slowing down our work."
+  },
+  "359": {
+    "vector_id": 359,
+    "category_id": "C36",
+    "room_number": "General",
+    "complaint_text": "Hello  Sir,  We  cannot pip install anything on lab systems, internet filters block half of the libraries. It would be a great help if this is looked into soon. Please share a timeline. Sincerely, sir please help"
+  },
+  "360": {
+    "vector_id": 360,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, No co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. This has been happening since 20 October. Please look into it. Thanks,"
+  },
+  "361": {
+    "vector_id": 361,
+    "category_id": "C56",
+    "room_number": "Ai Lab",
+    "complaint_text": "Hello  Sir,  Can a keycard system be arranged so final-year students can use the AI lab at night? We understand there may be constraints, but it is slowing down our work. Please share a timeline. Thanks, ekdum kharab hai"
+  },
+  "362": {
+    "vector_id": 362,
+    "category_id": "C57",
+    "room_number": "Data Science Lab",
+    "complaint_text": "Additional comments: The AC in the Data Science lab has been off since 2 weeks ago; the room is unbearaby hot and PCs shut down. Honestly this is unacceptable for an AIML department. pls reply"
+  },
+  "363": {
+    "vector_id": 363,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Medium] Prof. Iyer doesn't reply to mails regarding the Probabilistic Models mini project proposal. About 12 students are affected. 😭"
+  },
+  "364": {
+    "vector_id": 364,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "guys two TAs gave different marks for the same model accuracy and report in Natural Language Processing. students in the batch are a bit inconvenienced. please share a timeline. thoughts?\n\nSent from my iPhone"
+  },
+  "365": {
+    "vector_id": 365,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "guys lab sessions for Big Data Analytics are too short, we barely finish setup before time is over. this is blocking my credits and the project review is next week. we would appreciate a response. lmk"
+  },
+  "366": {
+    "vector_id": 366,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "[Medium] Marks for the Computer Vision quiz are yet to be uploaded and the project review is coming up. Only two GPUs for the entire batch and the queue to train a CNN never moves. About 60 students are affected. kuch kaam nahi kar raha"
+  },
+  "367": {
+    "vector_id": 367,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Feedback: Lab sessions for Reinforcement Learning are too short, we barely finish setup before time is over. It would be a great help if this is looked into soon. samajh nahi aata"
+  },
+  "368": {
+    "vector_id": 368,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Only two GPUs for the entire batch and the queue to train a CNN never moves. Unless fixed fast, 30 students will miss the deadline."
+  },
+  "369": {
+    "vector_id": 369,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Medium] Marks for the Deep Learniing quiz are yet to be upladed and the mid-sem is coming up. It was mentioneed earlier but nohting changed."
+  },
+  "370": {
+    "vector_id": 370,
+    "category_id": "C40",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "[Medium] The GPU machines in the AIML research lab are always occupied or down, so Data Mining model training takes days on CPU. It was mentioned earlier but nothing changed. 😤⚠️"
+  },
+  "371": {
+    "vector_id": 371,
+    "category_id": "C21",
+    "room_number": "General",
+    "complaint_text": "[Low] Feedback comes so late that we repeat the same mistakes in the next assignment. Stdents in the batch are a bit inconvenienced."
+  },
+  "372": {
+    "vector_id": 372,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "[Critical] We need regular guidance on model evaluation but our guide is always travelling. Unless fixed fast, 20 students will miss the deadline."
+  },
+  "373": {
+    "vector_id": 373,
+    "category_id": "C33",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Teams preparing for the lab viva need late evening access"
+  },
+  "374": {
+    "vector_id": 374,
+    "category_id": "C55",
+    "room_number": "General",
+    "complaint_text": "feedback: the projector in the department smart class flickers and the code on slides is unreadable. this has been happening since mid october. 👍"
+  },
+  "375": {
+    "vector_id": 375,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Water dispenser on d AIML floor has been empty since 20 October. This is d third time we are reporting this and nothing happens.  --  Sent from my Android"
+  },
+  "376": {
+    "vector_id": 376,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Only two GPUs for the entire batch and the queue to train a CNN never moves. Unless fxied fast, 30 students will miss the deadline. (reminder)"
+  },
+  "377": {
+    "vector_id": 377,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[High]  Department  JupyterHub  keeps throwing 500 errors and our saved notebooks vanish. We keep losing ti"
+  },
+  "378": {
+    "vector_id": 378,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? My project guide has not met our team for weeks and our assignment deadline is near. This has been happening since last month."
+  },
+  "379": {
+    "vector_id": 379,
+    "category_id": "C40",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "Hello Sir, The GPU machines in the AIML research lab are always occupied or down, so Data Mining model training takes days on CPU. Honestly this is unacceptable for an AIML department. We would appreciate a response. Thanks,"
+  },
+  "380": {
+    "vector_id": 380,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Our transformer fine-tuning keeps getting killed because the shared server runs out of memory. It would be a great help if this is looked into soon."
+  },
+  "381": {
+    "vector_id": 381,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Medium] Lecture slides for Deep Learning are not shared before class and the pace is too quick for notes. This has been happening since September."
+  },
+  "382": {
+    "vector_id": 382,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Any  suggestions  for the department? We would like access to curated datasets and research papers for Probabilistic Models projects. Everyone is fed up with this situation."
+  },
+  "383": {
+    "vector_id": 383,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "What problems did u face? Internet in d lab keeps dropping, so we can't download datasets or pretrained models. This is affecting our preparation for the assignment deadline."
+  },
+  "384": {
+    "vector_id": 384,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "guys lab sessions for Big Data Analytics are too shorrt, we barely finish setup before time is over. this is blocking my credits and the project review is next week. we would appreciate a response. lmk"
+  },
+  "385": {
+    "vector_id": 385,
+    "category_id": "C33",
+    "room_number": "General",
+    "complaint_text": "guys teams preparing for the lab viva need late evening access to the lab systems. this needs action this week, it is serious. we would appreciate a response. thoughts?"
+  },
+  "386": {
+    "vector_id": 386,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Medium] Feedback comes so late that we repeat the same mistakes in the next assignment. It was mentioned earlier but nothing changed."
+  },
+  "387": {
+    "vector_id": 387,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for d department? No coâ€“guide was assigned after our mentor went on leave, so our dataset approval is stuck. stdnts in the batch are a bit inconvenienced."
+  },
+  "388": {
+    "vector_id": 388,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Assignments submitted for Probabilistic Models 20 October are still not graded or returned. This is affecting our preparation for the internal test."
+  },
+  "389": {
+    "vector_id": 389,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "Hlelo Sir, Too much theory in Natural Language Processing and hardly any hands-on coding examples during lectures. About 20 stdnts are affected. pls share a timeline. Thanks,"
+  },
+  "390": {
+    "vector_id": 390,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, The Big Data Analytics syllabus still talks about old techniques while the industry uses transformers and LLMs. Several groups are behind schedule because of this. Request the department to take action. Thanks,"
+  },
+  "391": {
+    "vector_id": 391,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "feedback: lecture slides for computer vision are not shared befoe clsas and the pace is to"
+  },
+  "392": {
+    "vector_id": 392,
+    "category_id": "C39",
+    "room_number": "General",
+    "complaint_text": "[Medium] Lecture slides for Probabilistic Models are not shared befroe class and d pace is too quick for notes. This has been happening since mid Occtober. bohot slow hai pls reply"
+  },
+  "393": {
+    "vector_id": 393,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "guys d AC in d ML lab has been off since September; the room is unbearably hot and PCs shut down. unless fixed fast, 60 stdnts will miss d deadline. pls share a timeline. lmk"
+  },
+  "394": {
+    "vector_id": 394,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "any suggestions for the department? industry guest lectures on llms and generative ai would make big data analytics more relevant. this is the third time we are reporting this and nothing happens."
+  },
+  "395": {
+    "vector_id": 395,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "<p>Hello Sir, Marks for the Natural Language Processing quiz are yet to be uploaded and the internal test is coming up. Students in the batch are a bit inconvenienced. Request the department to take action. Sincerely,</p><br>"
+  },
+  "396": {
+    "vector_id": 396,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[High] Our transformer fine-tuning keeps getting killed because the sh"
+  },
+  "397": {
+    "vector_id": 397,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Low] Marks for the Probabilistic Models quiz are yet to be uploaded and the project review is coming up. We understand there may be constraints, but it is slowing down our work."
+  },
+  "398": {
+    "vector_id": 398,
+    "category_id": "C8",
+    "room_number": "General",
+    "complaint_text": "[Medium] Python versions differ across lab machines so code that runs on one PC breaks on another. It was mentioned earlier but nothing changed."
+  },
+  "399": {
+    "vector_id": 399,
+    "category_id": "C40",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "draft for HOD: please share a timeline. the GPU machines in the AIML research lab are always occupied or down, so Deep Learning model training takes days on CPU. unless fixed fast, 80 students will miss the deadline. lmk"
+  },
+  "400": {
+    "vector_id": 400,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, Corridor lights outside d lab are out, making it unsafe after evening classes. pls escalate this asap We would appreciate a response. Thanks,"
+  },
+  "401": {
+    "vector_id": 401,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, Review slots for the fiinal-year project keep gettinng postponed without notice. This is blocking my credits and the end-sem practical is next week. Kindly arrange a fix at the earliest. Thanks,"
+  },
+  "402": {
+    "vector_id": 402,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madam, Review slots for d final-year project keep getting postponed without notice. Everyone is fed up with this situation. Request d dept to take action. Sincerely,"
+  },
+  "403": {
+    "vector_id": 403,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "<p>[High] Requesting cloud credits (AWS/GCP/Azure) for Computer Vision projects, free tiers aren't enough for experiments. Honestly this is unacceptable for an AIML department.</p><br>"
+  },
+  "404": {
+    "vector_id": 404,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "ok so can this be resolved soon? internet in d lab keeps dropping, so we can't download datasets or pretrained models. this needs action this week, it is serious. lmk"
+  },
+  "405": {
+    "vector_id": 405,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Low] Colab free tier disconnects every hour and the department cluster is not accessible to students. It would be a great help if this is looked into soon."
+  },
+  "406": {
+    "vector_id": 406,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "<p>guys we need regular guidance on model evaluation but our guide is always travelling. this is blocking my credits and the Kaggle-style mini project is next week. we would appreciate a response. lmk</p><br>"
+  },
+  "407": {
+    "vector_id": 407,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? Our transformer fine-tuning keeps getting killed because the shared server runs out of memory. This has been happening since 20 October. samajh nahi aata"
+  },
+  "408": {
+    "vector_id": 408,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "<p>[Medium] Several topics in Computer Vision were skipped but they appear in the question bank. It was mentioned earlier but nothing changed.</p><br>"
+  },
+  "409": {
+    "vector_id": 409,
+    "category_id": "C31",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "Hello Sir, The AC in the AIML research lab has been off since 2 weeks ago; the room is unbearably hot and PCs shut down. This is the third time we are reporting this and nothing happens. Please share a timeline. Thanks, koi sunta hi nahi"
+  },
+  "410": {
+    "vector_id": 410,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, Review slots for d final-year project keep gettnig postponed without notice!!! It would be a great help if this is looked into sooon. pls look into it. Regards,"
+  },
+  "411": {
+    "vector_id": 411,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "NOTHING WORKS HERE"
+  },
+  "412": {
+    "vector_id": 412,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, We would like access to curated datasets and research papers for Probabilistic Models projects. This has been happening since the first week of October. Can this be resolved soon? Sincerely, ekdum kharab hai"
+  },
+  "413": {
+    "vector_id": 413,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "dear hod, two tas gave different marks for the same model accuracy and report in machine learning. we keep losing time and marks because of this. kindly arrange a fix at the earliest. thanks,"
+  },
+  "414": {
+    "vector_id": 414,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, CUDA is not detected on most lab systems since last month; we can't run our Reinforcement Learning notebooks. It would be a great help if this is looked into soon. Can this be resolved soon? Regards,"
+  },
+  "415": {
+    "vector_id": 415,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Feedback: Corridor lights outside the lab are out, making it unsafe after evening classes!!! It was mentioned earlier but nothing changed."
+  },
+  "416": {
+    "vector_id": 416,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "feedback: there is no clear rubric for the probabilistic models project; marks seem random between batches. unless fixed fast, 45 students will miss the deadline. ⚠️  --  Sent from my Android"
+  },
+  "417": {
+    "vector_id": 417,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "guys d AC in d ML lab has been off since September; the room is unbearably hot and PCs shut down. unless fixed fast, 60 stdnts will miss d deadline. pls sahre a timeline. lmk !!"
+  },
+  "418": {
+    "vector_id": 418,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Low] No co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. This is affecting our preparation for the internal test."
+  },
+  "419": {
+    "vector_id": 419,
+    "category_id": "C21",
+    "room_number": "General",
+    "complaint_text": "[low] feedback comes so late that we repeat the same mistakes in the next assignment. students in the batch are a bit inconvenienced."
+  },
+  "420": {
+    "vector_id": 420,
+    "category_id": "C55",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, The projector in the department smart class flickers and the code on slides is unreadable!!! Everyone is fed up with this situation. Can this be resolved soon? Thanks,"
+  },
+  "421": {
+    "vector_id": 421,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "[Medium]  Water  dispenser on the AIML floor has been empty since 20 October. This has been happening since 20 October."
+  },
+  "422": {
+    "vector_id": 422,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? The department should buy newer workstations and a small GPU cluster for students!!! We keep losing time and marks because of this. 😞"
+  },
+  "423": {
+    "vector_id": 423,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "<p>Additional comments: Corridor lights outside the lab are out, making it unsafe after evening classes. Everyone is fed up with this"
+  },
+  "424": {
+    "vector_id": 424,
+    "category_id": "C40",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "Dear Sir, The GPU machines in the AIML research lab are always occupied or down, so Deep Learning moodel training takes days on CPU. Nobody has told us the resluts of the Deep Learniing lab record, and Prof. Iyer says TAs are checking. We keep losing time and marks because of this. Kindly arrange a fix at the earliest. Regards, bohot slow hai 😤😞"
+  },
+  "425": {
+    "vector_id": 425,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, Internet in the lab keeps dropping, so we canâ€™t download datasets or pretrained models. It would be a great help if this is looked into soon. Can this be resolved soon? Sincerely,"
+  },
+  "426": {
+    "vector_id": 426,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Requesting cloud credits (AWS/GCP/Azure) for Data Mining projects, free tiers aren't enough for experiments. We understand there may be constraints, but it is slowing down our work. Please look into it. Sincerely,"
+  },
+  "427": {
+    "vector_id": 427,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Feedback: Lecture slides for Deep Learning are not shared before class and the pace is too quick for notes. This is affecting our preparation for the project review."
+  },
+  "428": {
+    "vector_id": 428,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "[High] Our transformer fine-tuning keeps getting killed because the shared server runs out of memory. This is the third time we are reporting this and nothing happens."
+  },
+  "429": {
+    "vector_id": 429,
+    "category_id": "C19",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Please introduce a dedicated elective on LLM engineering and prompt design. This is affecting our preparati"
+  },
+  "430": {
+    "vector_id": 430,
+    "category_id": "C29",
+    "room_number": "General",
+    "complaint_text": "[Medium] Many power sockets at lab benches are dead and groups share one extension board. This has been happening since the first week of October."
+  },
+  "431": {
+    "vector_id": 431,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Medium] Marks for the Deep Learniing quiz are yet to be upladed and the mid-sem is coming up. It was mentioneed earlier but nohting changed. pls reply"
+  },
+  "432": {
+    "vector_id": 432,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: pls escalate this asap we need regular guidance on model evaluation but our guide is always travelling!!! we would appreciate a response. lmk ekdum kharab hai"
+  },
+  "433": {
+    "vector_id": 433,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "[low]  only two gpus for the entire batch and the queue to train a cnn never moves. we understand there may be constraints, but it is slowing down our work. mail me at student441@gmail.com"
+  },
+  "434": {
+    "vector_id": 434,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "ok so it was mentioned earlier but nothing changed!!! can this be resolved soon? dr. reddy doesn't reply to mails regarding the ai ethics mini project proposal. thoughts? Contact: 9889766622"
+  },
+  "435": {
+    "vector_id": 435,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "<p>Feedback: There is no clear rubric for the Data Minng project; marks seem random betweeen batcehs. It was mentoined eralier but nthing changed.</p><br>"
+  },
+  "436": {
+    "vector_id": 436,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Teams preparing for the Kaggle-style mini project need late"
+  },
+  "437": {
+    "vector_id": 437,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "dept is not good!!!"
+  },
+  "438": {
+    "vector_id": 438,
+    "category_id": "C41",
+    "room_number": "General",
+    "complaint_text": "[Low]  Revaluation process for Reinforcement Learning is unclear and nobody replies to our queries. stdnts in d batch are a bit inconvenienced."
+  },
+  "439": {
+    "vector_id": 439,
+    "category_id": "C32",
+    "room_number": "Gpu Lab",
+    "complaint_text": "Dear HOD, Student licencce for MATLAB and the deep learning toolbox has expired in GPU lab, blocking Deep Learning assignments."
+  },
+  "440": {
+    "vector_id": 440,
+    "category_id": "C61",
+    "room_number": "Tutorial Room 3",
+    "complaint_text": "any suggestions for the department? the projector in tutorial room 3 flickers and the code on slides is unreadable. students in the bach are a bit inconvenienced."
+  },
+  "441": {
+    "vector_id": 441,
+    "category_id": "C53",
+    "room_number": "General",
+    "complaint_text": "[Low] Nobody has told us the results of the Natural Language Processing lab record, and Prof!!! Kulkarni says TAs a"
+  },
+  "442": {
+    "vector_id": 442,
+    "category_id": "C50",
+    "room_number": "General",
+    "complaint_text": "[Medium]  The  mic  in the department smart class doesn't work so students at the back cannot hear Prof. Iyer. It was mentioned earlier but nothing changed."
+  },
+  "443": {
+    "vector_id": 443,
+    "category_id": "C39",
+    "room_number": "General",
+    "complaint_text": "Additional  comments:  Too  much theory in Data Mining and hardly any hands--on coding examples during lectures. This is d thhird time we are reporting this and nothing happens. bohot slow hai"
+  },
+  "444": {
+    "vector_id": 444,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "What problems did you face? Internet in the lab keeps dropping, so we can't download datasets or pretrained models. About 20 students are affected. samajh nahi aata"
+  },
+  "445": {
+    "vector_id": 445,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Additional comments: There is no clear rubric for the Data Mining project; marks seem random between batches. This is blocking my credits and the internal test is next week."
+  },
+  "446": {
+    "vector_id": 446,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "[Low] Internet in the lab keeps dropping, so we can't download datasets or pretrained models. Students in the batch are a bit inconvenienced. 🙏😭⚠️"
+  },
+  "447": {
+    "vector_id": 447,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "guys everyone is fed up with this situation. prof. Kulkrani covers backpropagation math in Deep Learning so fast that no one can follow the derivations. please look into it. lmk 😭🔥⚠️"
+  },
+  "448": {
+    "vector_id": 448,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "feedback: there is no clear rubric for the probabilistic models project; marks seem random between batches. unless fixed fast, 45 students will miss the deadline. ⚠️  --  Sent from my Android"
+  },
+  "449": {
+    "vector_id": 449,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "OK SO CUDA IS NOT DETECTED ON MOST LAB SYSTEMS SINCE 2 WEEKS AGO; WE CAN'T RUN OUR DEEP LEARNING NOTEBOOKS. ABOUT 12 STUDENTS ARE AFFECTED. WE WOUULD APPRECIATE A REPONSE. sir please help !!"
+  },
+  "450": {
+    "vector_id": 450,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "Additional comments: We need regular guidance on model evaluation but our guide is always travelling. Please escalate this immediately. ⚠️😞🙏"
+  },
+  "451": {
+    "vector_id": 451,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Respected  Sir/Madam, Two TAs gave different marks for the same model accuracy and report in Computer Vision. This needs action this week, it is serious. Please look into it. Sincerely, 😭😤😭"
+  },
+  "452": {
+    "vector_id": 452,
+    "category_id": "C48",
+    "room_number": "General",
+    "complaint_text": "Any  suggestions  for  the department? Chairs in the department smart class are broken and there aren't enough seats for the whole batch. Everyone is fed up with this situation."
+  },
+  "453": {
+    "vector_id": 453,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "labs are bad Contact: 9853248875"
+  },
+  "454": {
+    "vector_id": 454,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, Lecture slides for Deep Learning are not shared before class and the pace is too quick for notes. We understand there may be constraints, but it is slowing down our work. Request the department to take action. Regards,\n\nSent from my iPhone"
+  },
+  "455": {
+    "vector_id": 455,
+    "category_id": "C29",
+    "room_number": "General",
+    "complaint_text": "hey all, many power sockets at lab benches are dead and groups share one extension board. this is affecting our preparation for d Kaggle-style mini project. please share a timeline. lmk"
+  },
+  "456": {
+    "vector_id": 456,
+    "category_id": "C40",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "<p>draft  for HOD: the GPU machines in the AIML research lab are always occupied or down, so Big Data Analytics model training takes days on CPU. this is the third time we are reporting this and nothing happens. please look into it. thoughts?</p><br>"
+  },
+  "457": {
+    "vector_id": 457,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "what problems did you face? please add workshops on mlops, docker and deployment; we only learn theory in class. we keep losing time and marks because of this. Contact: 9885779720"
+  },
+  "458": {
+    "vector_id": 458,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: internet in the lab keeps dropping, so we can't download data"
+  },
+  "459": {
+    "vector_id": 459,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "hey all, corridor lights outside the lab are out, making it unsafe after evening classes!!! it would be a great help if this is looked into soon. we would appreciate a response."
+  },
+  "460": {
+    "vector_id": 460,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "DRAFT FOR HOD: INTERNET IN THE LAB KEEPS DROPPING, SO WE CANâ€™T DOWNLOAD DATASETS OR PRETRAINED MODELS. PYTHON VERSIONS DIFFER ACROSS LAB MACHINES SO CODE THAT RUNS ON ONE PC BREAKS ON ANOTHER. EVERYONE IS FED UP WITH THIS SITUATION. WE WOULD APPRECIATE A RESPONSE. LMK"
+  },
+  "461": {
+    "vector_id": 461,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Additional comments: We got only a score for d Reinforcement Learning programming asgmt with zero comments on what went wrong. Everyone is fed up with this situation."
+  },
+  "462": {
+    "vector_id": 462,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, Too much theory in Machine Learning and hardly any hands-on coding examples during lectures. We understaand there may be constraitns, but it is slowing down our wrk. Kindly arrange a fix at the earliest. Thanks, koi sunta hi nahi"
+  },
+  "463": {
+    "vector_id": 463,
+    "category_id": "C19",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, Please introduce a dedicated elective on LLM engineering and prompt design. It would be a great help if this is looked into soon. Please look into it. Thanks, Contact: 9866057457"
+  },
+  "464": {
+    "vector_id": 464,
+    "category_id": "C52",
+    "room_number": "Room A-204",
+    "complaint_text": "Dear Sir, The mic in classroom A-204 doesn't work so students at the back cannot hear Prof. Qureshi. Students in the batch are a bit inconvenienced. Please share a timeline. Thanks,"
+  },
+  "465": {
+    "vector_id": 465,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Too much theory in AI Ethics and hardly any hands-on coding examples during lectures. Students in the batch are a bit inconvenienced. Please share a timeline. Sincerley,"
+  },
+  "466": {
+    "vector_id": 466,
+    "category_id": "C42",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "Feedback: Can a keycard system be arranged so finalâ€“year students can use the AIML research lab at night? This is the third time we are reporting this and nothing happens."
+  },
+  "467": {
+    "vector_id": 467,
+    "category_id": "C23",
+    "room_number": "Ai Lab",
+    "complaint_text": "Feedback: Please allow weekend access to the AI lab; long experiments can't be completed in a 2-hour slot!!! We understand there may be constraints, but it is slowing down our work. kuch kaam nahi kar raha Contact: 9890010830"
+  },
+  "468": {
+    "vector_id": 468,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "What problems did u face? We would like access to curated datasets and research papers for AI Ethics projects. It was mentioned earlier but nothing changed."
+  },
+  "469": {
+    "vector_id": 469,
+    "category_id": "C13",
+    "room_number": "General",
+    "complaint_text": "hey all, can this be resolved soon? nobody has told us the results of the Machine Learning lab record, and Dr. Joshi says TAs are checking. everyone is fed up with this situation. pls react if same"
+  },
+  "470": {
+    "vector_id": 470,
+    "category_id": "C39",
+    "room_number": "General",
+    "complaint_text": "[Medium] Lecture slides for Probabilistic Models are not shared before class and d pace is too quick for notes. This has been happening since mid October. bohot slow hai"
+  },
+  "471": {
+    "vector_id": 471,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "<p>Respected Sir/Madam, Only two GPUs for the entire batch and the queue to train a CNN never moves. It would be a great help if this is looked into soon. Please look into it. Regards, 🙏</p><br>"
+  },
+  "472": {
+    "vector_id": 472,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "hey all, we would appreciate a response. no coâ€“guide was assigned after our mentor went on leave, so our dataset approval is stuck. this neeeds action this week, it is serious. pls react if same"
+  },
+  "473": {
+    "vector_id": 473,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/adam, Several topiics in Machine Learning were skipped but they appeaar in the question bank. It would be a great help if this is looked into son. Kindly arrnage a fix at the earliest. Regards,"
+  },
+  "474": {
+    "vector_id": 474,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, The AC in the ML lab has been off since 20 October; the room is unbearably hot and PCs shut down. This has been happening since 20 October. We would appreciate a response. Regards, sir please help 😞😡😞"
+  },
+  "475": {
+    "vector_id": 475,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Low] Marks for the Deep Learning quiz are yet to be uploaded and the Kaggle-style mini project is coming up. Department JupyterHub keeps throwing 500 errors and our saved notebooks vanish. It would be a great help if this is looked into soon."
+  },
+  "476": {
+    "vector_id": 476,
+    "category_id": "C33",
+    "room_number": "General",
+    "complaint_text": "draft for HOD: teams preparing for the internal test need late evening access to the lab systems. this is blocking my credits and the internal test is next week. please share a timeline. pls react if same"
+  },
+  "477": {
+    "vector_id": 477,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "what  problems  did you face? feedback comes so late that we repeat the same mistakes in the next assignment. this is affecting our preparation for the lab viva."
+  },
+  "478": {
+    "vector_id": 478,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Low] Marks for the Computer Vision quiz are yet to be uploaded and the lab viva is comming up!!! We understand there may be constraints, but it is sloing down our work."
+  },
+  "479": {
+    "vector_id": 479,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "need  improvement"
+  },
+  "480": {
+    "vector_id": 480,
+    "category_id": "C62",
+    "room_number": "Room B-110",
+    "complaint_text": "Feedback: d projector in room B-110 flickers and d code on slides is unreadable. We understand there may be constraints, but it is slowing down our work. Contact: 9846975162"
+  },
+  "481": {
+    "vector_id": 481,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "hey all, please look into it. dr. banerjee doesn't reply to mails regarding the reinforcement learning mini project proposal. this is affecting our preparation for the end-sem practical. pls react if same"
+  },
+  "482": {
+    "vector_id": 482,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/adam, Several topiics in Machine Learning were sipped but they appeaar in the question bank. It would be a graet help if this is looked into son. Kindly arrnage a fix at the earliest. Reegards,"
+  },
+  "483": {
+    "vector_id": 483,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "no complaints but need better\n\nSent from my iPhone"
+  },
+  "484": {
+    "vector_id": 484,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "respected sir/madam, my project giude has not met our team for weks and our lab viva is near. seve"
+  },
+  "485": {
+    "vector_id": 485,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "<p>[Low] Two TAs gave different marks for the same model accuracy and report in Reinforcement Learning. It would be a great help if this is looked into soon.</p><br>\n\nSent from my iPhone"
+  },
+  "486": {
+    "vector_id": 486,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "[critical] our transformer fine-tuning keeps getting killed because the shared server runs out of memory. this needs action this week, it is serious. mail me at student593@gmail.com"
+  },
+  "487": {
+    "vector_id": 487,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Review slots for the final-year project keep getting postponed without notice. It would be a great help if this is looked into soon."
+  },
+  "488": {
+    "vector_id": 488,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Water dispenser on the AIML floor has been empty since 2 weeks ago. We understand there may be constraints, but it is slowing down our work."
+  },
+  "489": {
+    "vector_id": 489,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Feedback: Lecture slides for Natuural Language Processing are not shared before class and the pace is too quick for notes. About 45 students are affected."
+  },
+  "490": {
+    "vector_id": 490,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "<p>Feedback: Internet in the lab keeps droppping, so we can't download datasets or pretrained models. Please escalate this immediately.</p><br>"
+  },
+  "491": {
+    "vector_id": 491,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[High] No coâ€“guide was assigned after our mentor went on leave, so our dataset approval is stuck. Everyone is fed up with this situation."
+  },
+  "492": {
+    "vector_id": 492,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Corridor lights outside the lab are out, making it unsafe after evening classes. Students in the batch are a bit inconvenienced. see https://bit.ly/z32xcy"
+  },
+  "493": {
+    "vector_id": 493,
+    "category_id": "C47",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "[Critical] pls allow weekend access to d AIML research lab; long experiments can't be completed in a 2-hour slot. This is blocking my credits and d lab viva is next week."
+  },
+  "494": {
+    "vector_id": 494,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "[Low] Please add workshops on MLOps, Docker and deployment; we only learn theory in class. We understand there may be constraints, but it is slowing down our work."
+  },
+  "495": {
+    "vector_id": 495,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "<p>Respected  Sir/Madam, Internet in d lab keeps dropping, so we can't download datasets or pretrained models. We keep losing time and marks bcz of this. Kindly arrange a fix at d earliest. Thanks,</p><br>"
+  },
+  "496": {
+    "vector_id": 496,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Review slots for the final-year project keep getting postponed without notice. This needs action this week, it is serious."
+  },
+  "497": {
+    "vector_id": 497,
+    "category_id": "C61",
+    "room_number": "Tutorial Room 3",
+    "complaint_text": "Any  suggestions for the department? The projector in tutorial room 3 flickers and the code on slides is unreadable. Students in the batch are a bit inconvenienced."
+  },
+  "498": {
+    "vector_id": 498,
+    "category_id": "C32",
+    "room_number": "Gpu Lab",
+    "complaint_text": "[Critical] Keyboards, mice and monitors in the GPU lab are broken and nobody replaces them. This is blocking my credits and the lab viva is next week. please jaldi dekho"
+  },
+  "499": {
+    "vector_id": 499,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "[Low] Water dispenser on the AIML floor has been empty since last month. This is affecting our preparation for the Kaggle-style mini project."
+  },
+  "500": {
+    "vector_id": 500,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Feedback: No co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. Honestly this is unacceptable for an AIML department."
+  },
+  "501": {
+    "vector_id": 501,
+    "category_id": "C57",
+    "room_number": "Data Science Lab",
+    "complaint_text": "ANY SUGGESTIONS FOR d DEPARTMENT? THE AC IN THE DATA SCIENCE LAB HAS BEEN OFF SINCE LAST MONTH; d ROOM IS UNBEARABLY HOT AND PCS SHUT DOWN!!! ABOUT 60 STUDENTS ARE AFFECTED. mail me at student639@gmail.com"
+  },
+  "502": {
+    "vector_id": 502,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "DEAR SIR, OUR TRANSFORMER FINE-TUNING KEEPS GETTING KILLED BECAUSE THE SHARED SERVER RUNS OUT OF MEMORY. THIS IS BLOCKING MY CREDITS AND d LAB VIVA IS NEXT WEEK. pls LOOK INTO IT. SINCERELY, bilkul bekaar hai  Regards, Student, AIML 3rd yr"
+  },
+  "503": {
+    "vector_id": 503,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "[critical] water dispenser on the aiml floor has been empty since 20 october. unless fixed fast, 12 students will miss the deadline. samajh nahi aata"
+  },
+  "504": {
+    "vector_id": 504,
+    "category_id": "C16",
+    "room_number": "General",
+    "complaint_text": "[Medium] Lab sessions for AI Ethics are too short, we barely finish setup before time is over. This has been happening since since the semester b"
+  },
+  "505": {
+    "vector_id": 505,
+    "category_id": "C45",
+    "room_number": "Room A-204",
+    "complaint_text": "respected sir/madam, chairs in classroom a-204 are broken and there aren't enough seats for the whole batch. please escalate this immediately. we would appreciate a response. thanks, please jaldi dekho"
+  },
+  "506": {
+    "vector_id": 506,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "<p>[Medium] Water dispenser on the AIML floor has been empty since since the semester began. Several groups are behind schedule because of this.</p><br>"
+  },
+  "507": {
+    "vector_id": 507,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear  HOD,  Assignments  submitted for Natural Laguage Processing mid October are still not graded or returned. Please escalate this immediately. We would appreciate a response. Regards,"
+  },
+  "508": {
+    "vector_id": 508,
+    "category_id": "C30",
+    "room_number": "Ai Lab",
+    "complaint_text": "Additional comments: The GPU machines in the AI lab are always occupied or down, so Deep Learning model training takes days on CPU. Two TAs gave different marks for the same model accuracy and report in Deep Learning. About 20 students are affected."
+  },
+  "509": {
+    "vector_id": 509,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "[Low] Prof. Iyer covers backpropagation math in Reinforcement Learning so fast that no one can follow the derivations. Lab sessions for Reinforcement Learning are too short, we barely finish setup before time is over. We understand there may be constraints, but it is slowing down our work."
+  },
+  "510": {
+    "vector_id": 510,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, We got only a score for the Big Data Analytics programming assignment, with zero commentts on what went wrong. This has been happening since the first week of October. Please share a timeline. Sincerely,"
+  },
+  "511": {
+    "vector_id": 511,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Dear Sir, We got only a score for the Data Mining programming assignment, with zero comments on what went wrong. Marks for the Kaggle-style mini project were reduced for 'coding style' that was neever mentioned earlier. This has been happening since last monh. Please look into it. Regards, Contact: 9812481644"
+  },
+  "512": {
+    "vector_id": 512,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[Low] Marks for the Big Data Analytics quiz are yet to be uploaded and the end-sem practical is coming up. Students in the batch are a bit inconvenienced."
+  },
+  "513": {
+    "vector_id": 513,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madam, Lab sessions for Reinforcement Learning are too short, we barely finish setup before time is over. About 80 students are affected. Request the department to take action. Regards,"
+  },
+  "514": {
+    "vector_id": 514,
+    "category_id": "C39",
+    "room_number": "General",
+    "complaint_text": "additional  comments:  the machine learning syllabus still talks about old techniques while the industry uses transformers and llms. about 12 students are affected. bohot slow hai"
+  },
+  "515": {
+    "vector_id": 515,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, We got only a score for the Big Data Analytics programming assignment, with zero comments on what went wrong. Several topics in Big Data Analytics were skipped but they appear in the question bank. We understand there may be constraints, but it is slowing down our work. Please look into it. Thanks,"
+  },
+  "516": {
+    "vector_id": 516,
+    "category_id": "C37",
+    "room_number": "General",
+    "complaint_text": "<p>Feedback: There is no clear rubric for the Deep Learning project; marks seem random between batches. The department should buy newer workstations and a small GPU cluster for students. Everyone is fed up with this situation.</p><br>"
+  },
+  "517": {
+    "vector_id": 517,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "[high] cuda is not detected on most lab systems since mid october; we ca't run our natural language processing notebooks. we keep losing time and marks bcz of this."
+  },
+  "518": {
+    "vector_id": 518,
+    "category_id": "C22",
+    "room_number": "Tutorial Room 3",
+    "complaint_text": "[Medium]  Chairs in tutorial room 3 are broken and there aren't enough seats for the whole batch. It was mentioned earlier but nothing changed."
+  },
+  "519": {
+    "vector_id": 519,
+    "category_id": "C57",
+    "room_number": "Data Science Lab",
+    "complaint_text": "Additional comments: The AC in the Data Science lab has been off since 2 weeks ago; the room is unbearably hot and PCs shut down. Honestly this is unacceptable for an AIML department."
+  },
+  "520": {
+    "vector_id": 520,
+    "category_id": "C39",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Lecture slides for Probabilistic Models are not shared before class and the pace is too quick for notes. Students in the batch are a bit inconvenienced."
+  },
+  "521": {
+    "vector_id": 521,
+    "category_id": "C39",
+    "room_number": "General",
+    "complaint_text": "Additional comments: Lecture slides for Probabilistic Models are not shared before class and the pace is too quick for notes. Several groups are behind schedule because of this."
+  },
+  "522": {
+    "vector_id": 522,
+    "category_id": "C40",
+    "room_number": "Aiml Research Lab",
+    "complaint_text": "Additional comments: d GPU machines in d AIML research lab are always occupied or down, so Deep Learning model training takes days on CPU. pls escalate this immediately."
+  },
+  "523": {
+    "vector_id": 523,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "hello sir, marks for the end-sem practical were reduced for 'coding style' that was never mentioned earlier. about 60 students are affected. please share a timeline. regards,"
+  },
+  "524": {
+    "vector_id": 524,
+    "category_id": "C29",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Many power sockets at lab benches are dead and groups share one extension board. Students in the batch are a bit inconvenienced. Please share a timeline. Regards,"
+  },
+  "525": {
+    "vector_id": 525,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear  HOD,  Assignments  submitted for Natural Laguage Processing mid October are still not graded or returned. Please escalate this immediately. We would appreciate a respone. Regards, \t (reminder)"
+  },
+  "526": {
+    "vector_id": 526,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Medium] Feedback comes so late that we repeat the same mistakes in the next assignment. It was mentioned earlier but nothing changed."
+  },
+  "527": {
+    "vector_id": 527,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "DEAR SIR, COLAB FREE TIER DISCONNECTS EVERY HOUR AND THE DEPARTMENT CLUSTER IS NOT ACCESSIBLE TO STUDENTS. THIS HAS BEEN HAPPENING SINCE THE FIRST WEEK OF OCTOBER. CAN THIS BE RESOLVED SOON? REGARDS,"
+  },
+  "528": {
+    "vector_id": 528,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "<p>Hello Sir, Marks for the Natural Languae Processing quiz are yet to be upladed and the internal test is coming up. Students in the batch are a bit inconvenienced. Request the deprtment to take action. Sincerely,</p><br> (reminder)"
+  },
+  "529": {
+    "vector_id": 529,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Corridor lights outside the lab are out, making it unsafe after evening classes. It would be a great help if this is looked into soon. Can this be resolved soon? Thanks,"
+  },
+  "530": {
+    "vector_id": 530,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "[Critical] Please add workshops on MLOps, Docker and deployment; we only learn theory in class. Please escaalate this immmediately."
+  },
+  "531": {
+    "vector_id": 531,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "[Medium]  The  AI Ethics syllabus still talks about old techniques while the"
+  },
+  "532": {
+    "vector_id": 532,
+    "category_id": "C33",
+    "room_number": "General",
+    "complaint_text": "[High] Feedback comes so late that we repeat the same mistakes in the next assignment. Teams preparing for the mid-sem need late evening access to the lab systems. This is the third time we are reporting this and nothing happens. 😤😭👍"
+  },
+  "533": {
+    "vector_id": 533,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "test!!!"
+  },
+  "534": {
+    "vector_id": 534,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[High] Industry guest lectures on LLMs and generative AI would make AI Ethics more relevant. This is the third time we are reporting this and nothing happens."
+  },
+  "535": {
+    "vector_id": 535,
+    "category_id": "C63",
+    "room_number": "Room B110",
+    "complaint_text": "Feedback: The projector in room B110 flickesr and the code on slides is unreadable!!! Please escalate this immediately."
+  },
+  "536": {
+    "vector_id": 536,
+    "category_id": "C53",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, Nobody has told us the results of the Probabilistic Models lab record, and Prof. Kulkanri says TAs are checking. Everyonne is fed up with this situation. Please look into it. Thanks,"
+  },
+  "537": {
+    "vector_id": 537,
+    "category_id": "C64",
+    "room_number": "General",
+    "complaint_text": "hey all, there is no cler rubric for the Reinforcement Learning porject; maks seem random beetween batches. we understand there may be constraints, but it is slowing down our wor. please look into it. pls recat if same"
+  },
+  "538": {
+    "vector_id": 538,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "hey  all, no co-gguide was assigned after our mentor went on leave,"
+  },
+  "539": {
+    "vector_id": 539,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "guys we need regular guidance on model evaluation but our guide is always travelling. this needs action this week, it is serious. request d dept to take action."
+  },
+  "540": {
+    "vector_id": 540,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "[critical] several topics in reinforcement learning were skipped but they appear in the question bank. this is blocking my credits and the mid-sem is next week."
+  },
+  "541": {
+    "vector_id": 541,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? My project guide has not met our team for weeks and our project review is near. This is affecting our preparation for the project review. please jaldi dekho mail me at student192@gmail.com"
+  },
+  "542": {
+    "vector_id": 542,
+    "category_id": "C38",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madam, We need reular guiidance on model evaluation but our guide is always travelling. Students in the batch are a bit inconvenienced. We would appreciate a response. Regards,  CONFIDENTIAL: this message is intended only for the addressee."
+  },
+  "543": {
+    "vector_id": 543,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "nothing works here"
+  },
+  "544": {
+    "vector_id": 544,
+    "category_id": "C2",
+    "room_number": "General",
+    "complaint_text": "guys this is affecting our preparation for the project review. water dispenser on the AIML floor has been empty since Septembe"
+  },
+  "545": {
+    "vector_id": 545,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[Medium] Feedback comes so late that we repeat the same mistakes in the next assignment. It was mentioned earlier but nothing changde. pls reply"
+  },
+  "546": {
+    "vector_id": 546,
+    "category_id": "C36",
+    "room_number": "General",
+    "complaint_text": "Dear HOD, We cannot pip install anything on lab systems, internet filters block half of the libraries. We keep losing time and marks because of this. Please look into it. Sincerely,"
+  },
+  "547": {
+    "vector_id": 547,
+    "category_id": "C24",
+    "room_number": "Gpu Lab",
+    "complaint_text": "draft for HOD: kindly arrange a fix at the earliest. the AC in the GPU lab has been off since the first week of October; the room is unbearably hot and PCs shut down. this needs action this week, it is serious. lmk koi sunta hi nahi"
+  },
+  "548": {
+    "vector_id": 548,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "[Low] CUDA is not detected on most lab systems since mid"
+  },
+  "549": {
+    "vector_id": 549,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Hello Sir, Corridor lights outside the lab are out, making it unsafe after evening classes. We understand there may be constraints, but it is slowing down our work. Can this be resolved soon? Regards,"
+  },
+  "550": {
+    "vector_id": 550,
+    "category_id": "C6",
+    "room_number": "General",
+    "complaint_text": "Respected Sir/Madam, CUDA is not detected on most lab systems since mid October; we can't run our Probabilistic Models notebooks. This needs action this week, it is serious. Please share a timeline. Thanks,"
+  },
+  "551": {
+    "vector_id": 551,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "<p>Respected Sir/Madam, No co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. We keep losing time and marks because of this. Can this be resolved soon? Sincerely, yaar mail me at student610@gmail.com</p><br>"
+  },
+  "552": {
+    "vector_id": 552,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? No co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. This is the third time we are reporting this and nothing happens."
+  },
+  "553": {
+    "vector_id": 553,
+    "category_id": "C26",
+    "room_number": "General",
+    "complaint_text": "Any suggestions for the department? Too much theory in Natural Language Processing and hardly any hands-on coding examples during lectures. We understand there may be constraints, but it is slowing down our work."
+  },
+  "554": {
+    "vector_id": 554,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "[High] Industry guest lectures on LLMs and generative AI would make Machine Learning more relevant. Honestly this is unacceptable for an AIML department."
+  },
+  "555": {
+    "vector_id": 555,
+    "category_id": "C25",
+    "room_number": "General",
+    "complaint_text": "hey all, kindly arrange a fix at the earliest. this is affecting our preparation for the lab viva. internet in the lab keeps dropping, so we can't download datasets or pretrained models. lmk"
+  },
+  "556": {
+    "vector_id": 556,
+    "category_id": "C29",
+    "room_number": "General",
+    "complaint_text": "[Critical] Many power sockets at lab benches are dead and groups share one extension board. Please escalate this immediately."
+  },
+  "557": {
+    "vector_id": 557,
+    "category_id": "C36",
+    "room_number": "General",
+    "complaint_text": "[Medium] We cannot pip install anything on lab systems, internet filters block half of the libraries. About 30 students are affected. bilkul bekaar hai"
+  },
+  "558": {
+    "vector_id": 558,
+    "category_id": "C28",
+    "room_number": "General",
+    "complaint_text": "ok  so  two  TAs gave different marks for d same model accuracy and report in Reinforcement Learning. this is blocking my credits and d Kaggle-style mini project is next week. request d department to take action."
+  },
+  "559": {
+    "vector_id": 559,
+    "category_id": "C34",
+    "room_number": "General",
+    "complaint_text": "feedback: the deep learning syllabus still talks about old te"
+  },
+  "560": {
+    "vector_id": 560,
+    "category_id": "C27",
+    "room_number": "General",
+    "complaint_text": "Feedback: Dr. Reddy doen't reply to mails regarding the Data Mining mini project proposal. We understand theer may be constraintss, but it is slownig down our wokr."
+  },
+  "561": {
+    "vector_id": 561,
+    "category_id": "C35",
+    "room_number": "General",
+    "complaint_text": "draft for hod: kindly arrange a fix at the earliest. corridor lights outside the lab are out, making it unsafe after eveinng cllasses. this is blocking my credits and the end-sem practical is next week. lmk  Get Outlook for Android"
+  },
+  "562": {
+    "vector_id": 562,
+    "category_id": "C65",
+    "room_number": "General",
+    "complaint_text": "i less charging ports in class"
+  },
+  "563": {
+    "vector_id": 563,
+    "category_id": "C66",
+    "room_number": "107",
+    "complaint_text": "Fan not working in room 107"
+  },
+  "564": {
+    "vector_id": 564,
+    "category_id": "C67",
+    "room_number": "109",
+    "complaint_text": "Fan not working in room 109"
+  },
+  "565": {
+    "vector_id": 565,
+    "category_id": "C66",
+    "room_number": "107",
+    "complaint_text": "The ceiling fan has stopped spinning in room 107"
+  },
+  "566": {
+    "vector_id": 566,
+    "category_id": "C68",
+    "room_number": "107",
+    "complaint_text": "Water leakage from tap in washroom of room 107"
+  },
+  "567": {
+    "vector_id": 567,
+    "category_id": "C69",
+    "room_number": "109",
+    "complaint_text": "Tube light is flickering and not turning on in room 109"
+  },
+  "568": {
+    "vector_id": 568,
+    "category_id": "C70",
+    "room_number": "203",
+    "complaint_text": "Tube light is completely dead in room 203"
+  },
+  "569": {
+    "vector_id": 569,
+    "category_id": "C71",
+    "room_number": "204",
+    "complaint_text": "AC is not cooling properly and blowing warm air in room 204"
+  },
+  "570": {
+    "vector_id": 570,
+    "category_id": "C71",
+    "room_number": "204",
+    "complaint_text": "Air conditioner remote and cooling unit faulty in room 204"
+  },
+  "571": {
+    "vector_id": 571,
+    "category_id": "C72",
+    "room_number": "107",
+    "complaint_text": "Main door latch lock is jammed in room 107"
+  },
+  "572": {
+    "vector_id": 572,
+    "category_id": "C73",
+    "room_number": "305",
+    "complaint_text": "Window latch is broken and glass rattling in room 305"
+  },
+  "573": {
+    "vector_id": 573,
+    "category_id": "C74",
+    "room_number": "General",
+    "complaint_text": "Hostel 2nd floor corridor Wi-Fi router keeps disconnecting"
+  },
+  "574": {
+    "vector_id": 574,
+    "category_id": "C75",
+    "room_number": "General",
+    "complaint_text": "No hot water supply in 1st floor common washroom"
+  },
+  "575": {
+    "vector_id": 575,
+    "category_id": "C76",
+    "room_number": "General",
+    "complaint_text": "Water cooler on 3rd floor is leaking water on the floor"
+  },
+  "576": {
+    "vector_id": 576,
+    "category_id": "C77",
+    "room_number": "General",
+    "complaint_text": "Mess dinner food quality was stale and unhygienic today"
+  },
+  "577": {
+    "vector_id": 577,
+    "category_id": "C78",
+    "room_number": "General",
+    "complaint_text": "Gym treadmill belt is slipping and malfunctioning"
+  },
+  "578": {
+    "vector_id": 578,
+    "category_id": "C66",
+    "room_number": "107",
+    "complaint_text": "Fan not working in room 107"
+  },
+  "579": {
+    "vector_id": 579,
+    "category_id": "C67",
+    "room_number": "109",
+    "complaint_text": "Fan not working in room 109"
+  },
+  "580": {
+    "vector_id": 580,
+    "category_id": "C66",
+    "room_number": "107",
+    "complaint_text": "The ceiling fan has stopped spinning in room 107"
+  },
+  "581": {
+    "vector_id": 581,
+    "category_id": "C68",
+    "room_number": "107",
+    "complaint_text": "Water leakage from tap in washroom of room 107"
+  },
+  "582": {
+    "vector_id": 582,
+    "category_id": "C69",
+    "room_number": "109",
+    "complaint_text": "Tube light is flickering and not turning on in room 109"
+  },
+  "583": {
+    "vector_id": 583,
+    "category_id": "C70",
+    "room_number": "203",
+    "complaint_text": "Tube light is completely dead in room 203"
+  },
+  "584": {
+    "vector_id": 584,
+    "category_id": "C71",
+    "room_number": "204",
+    "complaint_text": "AC is not cooling properly and blowing warm air in room 204"
+  },
+  "585": {
+    "vector_id": 585,
+    "category_id": "C71",
+    "room_number": "204",
+    "complaint_text": "Air conditioner remote and cooling unit faulty in room 204"
+  },
+  "586": {
+    "vector_id": 586,
+    "category_id": "C72",
+    "room_number": "107",
+    "complaint_text": "Main door latch lock is jammed in room 107"
+  },
+  "587": {
+    "vector_id": 587,
+    "category_id": "C73",
+    "room_number": "305",
+    "complaint_text": "Window latch is broken and glass rattling in room 305"
+  },
+  "588": {
+    "vector_id": 588,
+    "category_id": "C74",
+    "room_number": "General",
+    "complaint_text": "Hostel 2nd floor corridor Wi-Fi router keeps disconnecting"
+  },
+  "589": {
+    "vector_id": 589,
+    "category_id": "C75",
+    "room_number": "General",
+    "complaint_text": "No hot water supply in 1st floor common washroom"
+  },
+  "590": {
+    "vector_id": 590,
+    "category_id": "C76",
+    "room_number": "General",
+    "complaint_text": "Water cooler on 3rd floor is leaking water on the floor"
+  },
+  "591": {
+    "vector_id": 591,
+    "category_id": "C77",
+    "room_number": "General",
+    "complaint_text": "Mess dinner food quality was stale and unhygienic today"
+  },
+  "592": {
+    "vector_id": 592,
+    "category_id": "C78",
+    "room_number": "General",
+    "complaint_text": "Gym treadmill belt is slipping and malfunctioning"
+  }
+}

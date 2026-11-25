@@ -1,0 +1,914 @@
+{
+  "C1": {
+    "category_id": "C1",
+    "category_name": "Excessive Theory & Insufficient Hands‑On Coding in Reinforcement Learning – General",
+    "room_number": "General",
+    "description": "Students report that the Reinforcement Learning lectures are heavily theoretical with very few practical coding examples. This imbalance is preventing them from earning required credits and preparing for the upcoming lab viva.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "Respected Sir/Madam, Too much theory in Reinforcemnt Learing and hardly any hands-on codinng examples during lecturse. This is blocking my credits and the lab viva is next week. Please share a tieline. Sincerely,",
+      "guys about 20 studnets are affectted!!! too much theory in Reinforcement Learning and hardly any hands-on coding examples duing lectures. request the department to take action. pls react if same"
+    ]
+  },
+  "C2": {
+    "category_id": "C2",
+    "category_name": "Empty Water Dispenser on AIML Floor – General",
+    "room_number": "General",
+    "description": "The water dispenser on the AIML floor has been empty since 20 October, leaving students without basic hydration during study periods. Prompt refilling is needed to support their preparation for the internal test.",
+    "complaint_count": 15,
+    "example_complaints": [
+      "Dear Sir, Water dispenser on the AIML floor has been empty since 20 Octobe. This is affeting our preparation for the internal test. Can this be resolved soon? Regards,",
+      "Additional comments: Water dispenser on d AIML floor has been empty since September. This is affecting our preparation for d internal test.",
+      "Feedback: Water dispenser on the AIML floor has been empty since the first week o",
+      "DRAFT  FOR  HOD:  WATER DISPENSER ON THE AIML FLOOR HAS BEEN EMPTY SINCE 2 WEEKS AGO. THIS IS THE THIRD TIME WE ARE REPORTING THIS AND NOTHING HAPPENS. WE WOULD APPRECIATE A RESPONSE. LMK",
+      "Dear Sir, Water dispenser on the AIML floor has been empty since 2 weeks ago. Please escalate this immediately. Please share a timeline. Regards,"
+    ]
+  },
+  "C3": {
+    "category_id": "C3",
+    "category_name": "Late‑Evening Lab System Access for Assignment Deadline – General",
+    "room_number": "General",
+    "description": "Student teams need access to lab computers during late evening hours to meet an imminent assignment deadline. Current access restrictions are causing unacceptable delays for the AIML department.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "[High] Teams preparing for the assignment deadline need late evening access to the lab systems. Honestly this is unacceptable for an AIML department. mail me at student898@gmail.com",
+      "Hello  Sir, Teams preparing for the project review need late evening access to the lab systems. About 12 students are affected. Please look i"
+    ]
+  },
+  "C4": {
+    "category_id": "C4",
+    "category_name": "Lab Network Blocking Package Installation (pip/conda) – General",
+    "room_number": "General",
+    "description": "Internet filtering on lab machines prevents pip and conda installations, blocking essential Python libraries. This issue has been reported multiple times without resolution, hindering coursework progress.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "<p>guys  we  cannot pip install anything on lab systems, internet filters block half of d libraries. this is d third time we are reporting this and nothing happens. we would appreciate a response. lmk yaar 👍</p><br>",
+      "guys we cannot pip intall anything on lab systems, internet filters block half of the libraries. this has been happening since 20 October. can this be resovled soon? pls react if same"
+    ]
+  },
+  "C5": {
+    "category_id": "C5",
+    "category_name": "Corridor Lighting Failure Outside Lab – General",
+    "room_number": "General",
+    "description": "The corridor lights outside the lab are non‑functional, creating a safety hazard and poor visibility for students moving between classes. Immediate repair is required to maintain a safe environment.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "<p>Dear Sir, Corridor lights outside d lab are out"
+    ]
+  },
+  "C6": {
+    "category_id": "C6",
+    "category_name": "Insufficient Workstation Performance & Lack of GPU Cluster Resources – General",
+    "room_number": "General",
+    "description": "Students request newer workstations and a small GPU cluster to handle modern AI workloads. Current hardware limits their ability to run experiments and complete projects efficiently.",
+    "complaint_count": 18,
+    "example_complaints": [
+      "ANY  SUGGESTIONS  FOR  THE DEPARTMENT? THE DEPARTMENT SHOULD BUY NEWER WORKSTATIONS AND A SMALL GPU CLUSTER FOR STUDENTS!!! PLEASE ESCALATE THIS IMMEDIATELY. 😭😭",
+      "[Medium] CUDA is not detected on most lab systems since 2 wekes ago; we can't run our Probabilistic Models notebooks. Several gropus are behind schedule because of this.  Get Outlook for Android",
+      "OK SO CUDA IS NOT DETECTED ON MOST LAB SYSTEMS SINCE 2 WEEKS AGO; WE CAN'T RUN OUR DEEP LEARNING NOTEBOOKS. ABOUT 12 STUDENTS ARE AFFECTED. WE WOULD APPRECIATE A RESPONSE. sir please help",
+      "guys cUDA is not detected on most lab systems since the first week of October; we can't run our Probabilistic Models notebooks. about 30 students are affected. please look into it.",
+      "[Medium] The department should buy newer workstations and a small GPU cluster for students. About 45 students are affected."
+    ]
+  },
+  "C7": {
+    "category_id": "C7",
+    "category_name": "Seminar Hall Audio System Failure – Seminar Hall",
+    "room_number": "Seminar Hall",
+    "description": "The microphone in the AIML seminar hall is not functioning, preventing students at the back from hearing the professor. This technical issue is delaying multiple group presentations.",
+    "complaint_count": 3,
+    "example_complaints": [
+      "<p>[Medium] The mic in AIML seminar hall doesn't work so students at the back cannot hear Prof. Kulkarni. Several groups are behind schedule because of this.</p><br>",
+      "hey all, the mic in aiml seminar hall doesn't work so students at the back cannot hear prof. kulkarni. this is blocking my credits and the end-sem practical is next week. please look into it. pls react if same",
+      "Dear Sir, The mic in AIML seminar hall doesn't work so students at the back cannot hear Prof!!! Qureshi. This is blocking my credits and the Kaggle-style mini project is next week. Can this be resolved soon? Sincerely,"
+    ]
+  },
+  "C8": {
+    "category_id": "C8",
+    "category_name": "Inconsistent Python Environments Across Lab Machines – General",
+    "room_number": "General",
+    "description": "Python version discrepancies among lab computers cause code that runs on one machine to fail on another. Without a standardized environment, 45 students risk missing their project deadline.",
+    "complaint_count": 3,
+    "example_complaints": [
+      "Respected Sir/Madam, Python versions differ across lab machines so code that runs on one PC breaks on another. Unless fixed fast, 45 students will miss the deadline. Can this be resolved soon? Sincerely,",
+      "[Critical] Python versions differ across lab machines so code that runs on one PC breaks on another. This needs action this week, it is serious.",
+      "[Medium] Python versions differ across lab machines so code that runs on one PC breaks on another. It was mentioned earlier but nothing changed."
+    ]
+  },
+  "C9": {
+    "category_id": "C9",
+    "category_name": "Irregular Mentorship & Inadequate Guidance on Model Evaluation – General",
+    "room_number": "General",
+    "description": "Students lack regular guidance on model evaluation because their assigned guide is frequently unavailable. Additionally, the current professor’s rapid coverage of back‑propagation leaves many unable to follow the material.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "[Medium] We need regular guidance on model evaluation but our guide is always travelling. Prof. Nambiar covers backpropagation math in Deep Learning so fast that no one can follow the derivations. Several groups are behind schedule because of this."
+    ]
+  },
+  "C10": {
+    "category_id": "C10",
+    "category_name": "Excessive Theory & Lack of Practical Workshops on MLOps, Docker & Deployment – General",
+    "room_number": "General",
+    "description": "Students report that the curriculum only covers theoretical aspects of MLOps, Docker, and deployment, with no hands‑on workshops. They request practical sessions to bridge the gap and support project work.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "Fedeback: Please add worksohps on MLOps, Dockr and deployment; we only learn theory in class. It was mentioned earlier but nothing changed. yaar"
+    ]
+  },
+  "C11": {
+    "category_id": "C11",
+    "category_name": "Projector Flickering & Unreadable Slides – Room A-204",
+    "room_number": "Room A-204",
+    "description": "The projector in classroom A‑204 flickers, making slide code unreadable and hindering preparation for the mid‑semester exam. Immediate repair or replacement is needed to ensure visual clarity.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "[Low] d projector in classroom A-204 flickers and the code on slides is unreadable. This is affecting our preparation for the mid-sem.",
+      "Feedbck: The projector in classroom A-204 flickers and the code on slids is unrreadable. It was mentoined earlier but nothing changed."
+    ]
+  },
+  "C12": {
+    "category_id": "C12",
+    "category_name": "Unclear Deep Learning Revaluation Process & Lack of Response – General",
+    "room_number": "General",
+    "description": "The revaluation process for the Deep Learning course is unclear and students receive no responses to their queries. Clarification of the procedure and timely communication are required.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "what prroblems did you faace? revaluation proocess for deep leraning is uncleear and nobody replies to our queries. it would be a great help if this is looked into soon."
+    ]
+  },
+  "C13": {
+    "category_id": "C13",
+    "category_name": "Delayed Publication of Deep Learning Lab Record Marks – General",
+    "room_number": "General",
+    "description": "Results of the Deep Learning lab record have not been released despite multiple requests, leaving students uncertain about their grades. The department should publish the marks promptly.",
+    "complaint_count": 6,
+    "example_complaints": [
+      "hey all, please look into it. this is the third time we are reporting this and nothing happens. nobody has told us the results of the deep learning lab record, and prof. iyer says tas are checking. pls react if same 😡",
+      "guys nobody has told us the results of the Reinforcement Learning lab record, and Dr. Reddy says TAs are checking. this needs action this week, it is seroius. kindly arrange a fix at the earliest. pls react if same",
+      "Additional comments: Nobody has told us the results of the Reinforcement Learning lab record, and Prof. Qureshi says TAs are checking. It was mentioned earlier but nothing changed.",
+      "[Low] Nobody has told us the results of the Reinforcement Learning lab record, and Dr!!! Menon says TAs are checkin. We understand thee may be constraints, but it is solwing down our work.  Get Outlook for Android",
+      "Additional comments: Nobody has told us the results of the Machine Learning lab record, and Dr. Banerjee says TAs are checking. It was mentioned earlier but nothing changed. Contact: 9830701474"
+    ]
+  },
+  "C14": {
+    "category_id": "C14",
+    "category_name": "Lab Viva Marks Reduced for Uncommunicated Coding Style – General",
+    "room_number": "General",
+    "description": "Lab viva marks were deducted for a \"coding style\" issue that was never communicated to students, affecting about 20 students. The grading criteria need to be clarified and the marks reconsidered.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "draft for HOD: marks for the lab viva were reduced for 'coding stye' that was nveer mentioned earlier. about 20 studennts are affected. please share a timeline. pls reaact if same 😤😞",
+      "draft for HOD: marks for the lab viva were reduced for 'coding stye' that was nveer mentioned earlier. about 20 stuennts are affected. please share a timeline. pls reaact if same 😤😞 (reminder)"
+    ]
+  },
+  "C15": {
+    "category_id": "C15",
+    "category_name": "Early Closing Time of GPU Lab Hindering Training Runs – GPU Lab (Room Gpu Lab)",
+    "room_number": "Gpu Lab",
+    "description": "The GPU lab closes at 5 pm, which is insufficient for completing long training runs and project work. Extending lab hours or providing after‑hours access is requested.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "Hello Sir, The GPU lab closes at 5 pm, which is too early for training runs and project work. Students in the batch are a bit inconvenienced. Request the department to take action. Regards,\n\nSent from my iPhone"
+    ]
+  },
+  "C16": {
+    "category_id": "C16",
+    "category_name": "Insufficient Duration of AI Ethics Lab Sessions – General",
+    "room_number": "General",
+    "description": "AI Ethics lab sessions are too short, preventing students from completing setup before the class ends. An extension of session duration or additional lab time is needed.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "[Low]  Lab  sessions  for AI Ethics are too short, we barely finish setup before time is over. It would be a great help if this is looked into soon.",
+      "[Medium] Lab sessions for AI Ethics are too short, we barely finish setup before time is over. This has been happening since since the semester b"
+    ]
+  },
+  "C17": {
+    "category_id": "C17",
+    "category_name": "Early Closing Time of Data Science Lab Hindering Training Runs – Data Science Lab",
+    "room_number": "Data Science Lab",
+    "description": "The Data Science lab also closes at 5 pm, limiting time for training runs and causing loss of marks. The department should consider extending operating hours for this lab.",
+    "complaint_count": 3,
+    "example_complaints": [
+      "Any suggestions for the department? The Data Science lab closes at 5 pm, whcih is too early for trainign runs and project work. We keep loisng time and marks because of thiss. bilkul bekaar hai",
+      "Respected Sir/Madam, The Data Science lab closes at 5 pm, which is too early for training runs and project work. Unless fixed fast, 12 students will miss the deadline. Request the department to take action. Sincerely,",
+      "Dear  HOD, The Data Science lab closes at 5 pm, which is too early for training runs and project work. We understand there may be constraints, but it is slowing down our work. We would appreciate a response. Thanks, koi sunta hi nahi"
+    ]
+  },
+  "C18": {
+    "category_id": "C18",
+    "category_name": "Project Review Marks Reduced for Uncommunicated Coding Style – General",
+    "room_number": "General",
+    "description": "Project review marks were reduced for a \"coding style\" issue that was never disclosed, blocking students' credits. The assessment guidelines must be shared and the marks reviewed.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "<p>hey all, marks for the project review were reduced for 'coding style' that was never mentioned earlier. this is blocking my credits and the project review is next week. can this be resolved soon? lmk</p><br>"
+    ]
+  },
+  "C19": {
+    "category_id": "C19",
+    "category_name": "Request for Dedicated Elective on LLM Engineering & Prompt Design – General",
+    "room_number": "General",
+    "description": "Students request a dedicated elective focused on LLM engineering and prompt design, which has been suggested before but not implemented. Approval and scheduling of such a course are sought.",
+    "complaint_count": 6,
+    "example_complaints": [
+      "what problems did you face? please introduce a dedicated elective on llm engineering and propt design. it was metnioned earlier but nothing changged.",
+      "[Medium] pls introduce a dedicated elective on LLM engineering and prompt design. Several groups are behind schedule bcz of this.",
+      "Feedback: Please introduce a dedicated elective on LLM engineering and prompt design. We understand there may be constraints, but it is slowing down our work. 🔥😞🔥",
+      "Any suggestions for the department? Please introduce a dedicated elective on LLM engineering and prompt design. This is affecting our preparati",
+      "Dear Sir, Please introduce a dedicated elective on LLM engineering and prompt design. It would be a great help if this is looked into soon. Please look into it. Thanks, Contact: 9866057457"
+    ]
+  },
+  "C20": {
+    "category_id": "C20",
+    "category_name": "Insufficient Workstation Performance & Frequent Hangs in Data Science Lab",
+    "room_number": "Data Science Lab",
+    "description": "Students report that the computers in the Data Science Lab have only 8 GB RAM, run extremely slowly and often hang while loading datasets. The problem has persisted since September and is preventing timely completion of coursework.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "ADDITIONAL COMMENTS: SYSTEMS IN THE DATA SCIENCE LAB ARE EXTREMELY SLOW, WITH 8 GB RAM AND FREQUENT HANGS DURING DATASET LOADING. THIS HAS BEEN HAPPENING SINCE SEPTEMBER."
+    ]
+  },
+  "C21": {
+    "category_id": "C21",
+    "category_name": "Delayed Assignment Feedback Hindering Student Progress – General",
+    "room_number": "General",
+    "description": "Students indicate that feedback on assignments is provided too late, forcing them to repeat the same mistakes in subsequent work. This delay reduces learning efficiency and causes batch‑wide inconvenience.",
+    "complaint_count": 4,
+    "example_complaints": [
+      "[Low] Feedback comes so late that we repeat the same mistakes in the next assignment. Students in the batch are a bit inconvenienced.",
+      "Any  suggestions for the department? Feedback comes so late that we repeat the same mistakes in the next assignment. It would be a great help if this is looked into soon. 😡",
+      "[Low] Feedback comes so late that we repeat the same mistakes in the next assignment. Stdents in the batch are a bit inconvenienced.",
+      "[low] feedback comes so late that we repeat the same mistakes in the next assignment. students in the batch are a bit inconvenienced."
+    ]
+  },
+  "C22": {
+    "category_id": "C22",
+    "category_name": "Broken Chairs and Insufficient Seating in Tutorial Room 3",
+    "room_number": "Tutorial Room 3",
+    "description": "Several chairs in Tutorial Room 3 are broken and the room does not provide enough functional seats for the entire batch. The issue has been ongoing since September and hampers a comfortable learning environment.",
+    "complaint_count": 6,
+    "example_complaints": [
+      "[Medimu] Chairs in tutorial room 3 are broken and there aren't enough seats for the whole batch. This has been happening since September. Contact: 9895344481",
+      "Hello Sir, Chairs in tutorial room 3 are broken and there aren't enough seats for the whole batch. We understand there may be constraints, but it is slowing down our work. Please share a timeline. Regards, Contact: 9834610768",
+      "Additional comments: Chairs in tutorial room 3 are broken and there aren't enough seats for the whole batch. We keep losing time and marks because of this.",
+      "guys chairs in tutorial room 3 are broken and there arenâ€™t enough seats for the whole batch. about 20 students are affected. we would appreciate a response.",
+      "Feedback: Chairs in tutorial room 3 are broken and there aren't enough seats for the whole batch. This is affecting our preparation for the end-sem practical.  Regards, Student, AIML 3rd yr"
+    ]
+  },
+  "C23": {
+    "category_id": "C23",
+    "category_name": "Weekend Access Request for AI Lab to Support Long Experiments – AI Lab (Room Ai Lab)",
+    "room_number": "Ai Lab",
+    "description": "Students request that the AI Lab be opened on weekends because the current 2‑hour daily slot is insufficient for completing long‑running experiments. Lack of weekend access is delaying project progress.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "<p>Addiitonal comments: Plaese allow weekend access to the AI lab; long experiments can't be completed in a 2-hour slot. This needs action this week, it is serious.</p><br>",
+      "Feedback: Please allow weekend access to the AI lab; long experiments can't be completed in a 2-hour slot!!! We understand there may be constraints, but it is slowing down our work. kuch kaam nahi kar raha Contact: 9890010830"
+    ]
+  },
+  "C24": {
+    "category_id": "C24",
+    "category_name": "Air Conditioning Failure and Overheating in GPU Lab – GPU Lab (Room Gpu Lab)",
+    "room_number": "Gpu Lab",
+    "description": "The air‑conditioning in the GPU Lab has been non‑functional since 20 October, making the environment unbearably hot and causing PCs to shut down. Approximately 80 students are affected and a repair timeline is urgently needed.",
+    "complaint_count": 3,
+    "example_complaints": [
+      "Hello  Sir,  d AC in d GPU lab has been off since 20 Ocober; d room is unbearaly hot and PCs shut down. abt 80 stdnts are affeccted. pls shaare a timeline. Thanks,",
+      "Any  suggesstions for the department? The AC in the GPU lab has been off since September; the room is unbearably hot and PCs shut down. We keep losing time and marks beacuse of this.  Get Outlook for Android",
+      "draft for HOD: kindly arrange a fix at the earliest. the AC in the GPU lab has been off since the first week of October; the room is unbearably hot and PCs shut down. this needs action this week, it is serious. lmk koi sunta hi nahi"
+    ]
+  },
+  "C25": {
+    "category_id": "C25",
+    "category_name": "Intermittent Lab Internet Connectivity Disrupting Dataset and Model Downloads – General",
+    "room_number": "General",
+    "description": "The lab’s internet connection drops frequently, stopping students from downloading datasets or pretrained models. The instability is delaying multiple group projects.",
+    "complaint_count": 15,
+    "example_complaints": [
+      "additional comments: internet in the lab keeps dropping, so we can't download datasets or pretrained models. several groups are behind schedule because of this. koi sunta hi nahi",
+      "Feedback:  Internet  in  d lab keeps dropping, so we can't download datasets or pretrained models. Everyone is fed up with this situation.",
+      "draft for HOD: can this be resolved soon? internet in the lab keeps dropping, so we can't download datasets or pretrained models. this is affecting our preparation for the lab viva. lmk",
+      "ANY SUGGESTIONS FOR THE DEPARTMENT? INTERNET IN THE LAB KEEPS DROPPING, SO WE CAN'T DOWNLOAD DATASETS OR PRETRAINED MODELS. REVIEW SLOTS FOR THE FINAL-YEAR PROJECT KEEP GETTING POSTPONED WITHOUT NOTICE. STUDENTS IN THE BATCH ARE A BIT INCONVENIENCED.",
+      "[High] Internet in d lab keeps dropping, so we can't download datasets or pretrained models. This is the third time we are reporting this and nohting happens. Contact: 9853647020"
+    ]
+  },
+  "C26": {
+    "category_id": "C26",
+    "category_name": "Unannounced Postponement of Project Reviews",
+    "room_number": "General",
+    "description": "Final-year and mini-project review evaluation dates postponed without notice.",
+    "complaint_count": 21,
+    "example_complaints": [
+      "[Medium] Our transformer fine-tuning keeps getting killed because the shared server runs out of memory. Several groups are behind schedule because of this.",
+      "Dear HOD, Colab free tier disconnects every hour and d dept cluster is not accessible to stdnts Several groups are behind schedule bcz of this!!! Request d dept to take action. Sincerely,",
+      "Feedback: Our transformer fine-tuning keeps getting killed because the shared server runs out of memory. This is affecting our preparation for the internal test. yaar",
+      "Additional comments: Lab sessions for Deep Learning are too short, we barely finish setup before time is over. Water dispenser on the AIML floor has been empty since 20 October. Several groups are behind schedule because of this.",
+      "any suggestions for the department? we got only a score for the probabilistic models programming assignment, with zero comments on what went wrong. several groups are behind schedule because of this. 😡😭🙏"
+    ]
+  },
+  "C27": {
+    "category_id": "C27",
+    "category_name": "General Academic & Campus Grievance",
+    "room_number": "General",
+    "description": "Student grievance regarding departmental academic or facility services.",
+    "complaint_count": 135,
+    "example_complaints": [
+      "Any suggestions for the department? Colab free tier disconnects every hour and the department cluster is not accessible to students. It was mentioned earlier but nothing changed.",
+      "<p>hey all, colab free tier disconnects every hour and the department cluster is not accessible to students. this needs actoin this week, it is serious. please look into it. lmk</p><br>",
+      "[low] assignments submitted for big data analytics 2 weeks ago are still not graded or returned. it would be a great help if this is looked into soon.",
+      "draft for HOD: can a keycard system be arranged so finalâ€“year students can use the ML lab at night? it would be a great help if this is looked into soon. we would appreciate a response. pls react if same",
+      "[High] Colab free tier disconnects every hour and the department cluster is not accessible to students. We keep losing time and marks because of this."
+    ]
+  },
+  "C28": {
+    "category_id": "C28",
+    "category_name": "Delayed Quiz & Internal Assessment Marks",
+    "room_number": "General",
+    "description": "Marks for quizzes, viva, or lab records not uploaded before major exams.",
+    "complaint_count": 93,
+    "example_complaints": [
+      "Feedback: Review slots for the final-year project keep getting postponed without notice. This is blocking my credits and the internal test is next week.",
+      "[low] no co-guide was assigned after our mentor went on leave, so our dataset approval is stuck. this is affecting our preparation for the mid-sem.",
+      "[Medium] Marks for the lab viva were reduced for â€™coding styleâ€™ that was never mentioned earlier. Several groups are behind schedule because of this. 😞",
+      "draft for HOD: please look into it. several groups are behind schedule because of this. marks for the end-sem practical were reduced for 'coding style' that was never mentioned earlier.",
+      "Dear HOD, There is no clear rubric for the Probabilistic Models project; marks seem random between batches. We understand there may be constraints, but it is slowing down our work. Please look into it. Thanks,"
+    ]
+  },
+  "C29": {
+    "category_id": "C29",
+    "category_name": "Dead Electrical Sockets at Lab Workstations",
+    "room_number": "General",
+    "description": "Non-functioning power outlets at student lab desks forcing dangerous daisy-chaining of extension boards.",
+    "complaint_count": 12,
+    "example_complaints": [
+      "Dear Sir, Many power sockets at lab benches are dead and groups share one extension board. It would be a great help if this is looked into soon. Please share a timeline. Thanks,  Get Outlook for Android",
+      "Respected Sir/Madam, The mic in the department smart class doesn't work so students at the back cannot hear Prof. Qureshi. Many power sockets at lab benches are dead and groups share one extension board. We understand there may be constraints, but it is slowing down our work. We would appreciate a response. Sincerely,",
+      "Dear HOD, Many power sockets at lab benches are dead and groups share one extension board. About 12 students are affected. Kindly arrange a fix at the earliest. Sincerely,",
+      "Respected Sir/Madam, Many power sockets at lab benches are dead and groups share one extension board. Several groups are behind schedule because of this. Kindly arrange a fix at the earliest. Regards, ⚠️",
+      "[Low] Many power socckets at lab benches are dead and groups share one extension board. Students in the batch are a bit inconvenienced."
+    ]
+  },
+  "C30": {
+    "category_id": "C30",
+    "category_name": "GPU & Computing Resource Bottleneck - Ai Lab",
+    "room_number": "Ai Lab",
+    "description": "Students reporting insufficient GPUs, training queue delays, or inability to train deep learning models. Located at Ai Lab.",
+    "complaint_count": 3,
+    "example_complaints": [
+      "[Medium] Only two GPUs for the entire batch and the queue to train a CNN never moves. The AC in the AI lab has been off since last month; the room is unbearably hot and PCs shut down. Several groups are behind schedule because of this.",
+      "Additional comments: The GPU machines in the AI lab are always occupied or donw, so Big Data Analytics model training takes days on CPU. About 20 students are affecetd.",
+      "Additional comments: The GPU machines in the AI lab are always occupied or down, so Deep Learning model training takes days on CPU. Two TAs gave different marks for the same model accuracy and report in Deep Learning. About 20 students are affected."
+    ]
+  },
+  "C31": {
+    "category_id": "C31",
+    "category_name": "Delayed Quiz & Internal Assessment Marks - Aiml Research Lab",
+    "room_number": "Aiml Research Lab",
+    "description": "Marks for quizzes, viva, or lab records not uploaded before major exams. Located at Aiml Research Lab.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "What problems did you face? The AC in the AIML research lab has been off since September; the room is unbearably hot and PCs shut down!!! This is affecting our preparation for the lab viva.",
+      "Hello Sir, The AC in the AIML research lab has been off since 2 weeks ago; the room is unbearably hot and PCs shut down. This is the third time we are reporting this and nothing happens. Please share a timeline. Thanks, koi sunta hi nahi"
+    ]
+  },
+  "C32": {
+    "category_id": "C32",
+    "category_name": "GPU & Computing Resource Bottleneck - Gpu Lab",
+    "room_number": "Gpu Lab",
+    "description": "Students reporting insufficient GPUs, training queue delays, or inability to train deep learning models. Located at Gpu Lab.",
+    "complaint_count": 12,
+    "example_complaints": [
+      "hey all, the GPU machines in the GPU lab are always occupied or down, so Natural Language Processing model training takes days on CPU. this has been happening since the first week of October. we would appreciate a response. thoughts? koi sunta hi nahi",
+      "[Critical] Please allow weekend access to the GPU lab; long experiments can't be completed in a 2-hour slot. This needs action this week, it is serious.",
+      "guys it was mentioned earlier but nothing changed. keyboards, mice and monitors in the GPU lab are broken and nobody replaces them. can this be resolved soon? pls react if same see https://bit.ly/y3xxy1",
+      "<p>hello sir, can a keycard system be arranged so final-year students can use the gpu lab at night? this is blocking my credits and the assignment deadline is next week. can this be resolved soon? sincerely,</p><br>",
+      "Any suggestions for the department? Systems in the GPU lab are extremely slow, with 8 GB RAM and frequent hangs during dataset loading. It was mentioned earlier but nothing changed."
+    ]
+  },
+  "C33": {
+    "category_id": "C33",
+    "category_name": "Early Lab Closure Restricting Model Training",
+    "room_number": "General",
+    "description": "AI/GPU labs closing at 5 PM before long-running model training or project experiments finish.",
+    "complaint_count": 12,
+    "example_complaints": [
+      "[Critical] Teams preparing for the end-sem practical need late evening access to the lab systems!!! Please escalate this immediately.",
+      "dear sir, teams preparing for the lab viva need late evening access to the lab systems. it would be a great help if this is looked into soon. kindly arrange a fix at the earliest. thanks, ekdum kharab hai",
+      "Additional comments: Please allow weekend access to d ML lab; long experiments can't be completed in a 2-hour slot. About 60 stdnts are affected.",
+      "[High] Teams preparing for the lab viva need late evening access to the lab systems. This is the third time we are reporting this and nothing happens. mail me at s",
+      "ADDITIONAL COMMENTS: TOO MUCH THEORY IN DATA MINING AND HARDLY ANY HANDS-ON CODING EXAMPLES DURING LECTURES. TEAMS PREPARING FOR THE END-SEM PRACTICAL NEED LATE EVENING ACCESS TO THE LAB SYSTEMS. SEVERAL GROPS ARE BEHIND SCHEDULE BECAUSE OF THIS.  Get Outlook for Android"
+    ]
+  },
+  "C34": {
+    "category_id": "C34",
+    "category_name": "Skipped Syllabus Topics Appearing in Examination Questions",
+    "room_number": "General",
+    "description": "Portions omitted during lectures but tested in internal assessments and question banks.",
+    "complaint_count": 14,
+    "example_complaints": [
+      "[High] Several topics in Deep Learning were skipped but they appear in the question bank. Corridor lights outside the lab are out, making it unsafe after evening classes. Honestly this is unacceptable for an AIML department. sir please help",
+      "[Critical]  The  Reinforcement  Learning syllabus still talks about old techniques while the industry uses transformers and LLMs. Please escalate this immediately.",
+      "<p>Respected Sir/Madam, Several topics in Data Mining were skipped but they appear in the question bank!!! We understand there may be constraints, but it is slowing down our work. Please look into it. Thanks,</p><br>",
+      "ADDITIONAL COMMENTS: SEVERAL TOPICS IN DEEP LEARNING WERE SKIPPED BUT THEY APPEAR IN THE QUESTION BANK. PLEASE ESCALATE THIS IMMEDIATELY. 🔥🙏🔥",
+      "Respected Sir/Madam, The Reinforcement Learning syllabus still talks abt old techniques while d industry uses transformers and LLMs. abt 80 stdnts are affected. Request d dept to take action. Thanks,"
+    ]
+  },
+  "C35": {
+    "category_id": "C35",
+    "category_name": "Excessive Theoretical Teaching Without Hands-on Coding",
+    "room_number": "General",
+    "description": "Lectures overly theoretical with no practical coding examples in AI/ML subjects.",
+    "complaint_count": 25,
+    "example_complaints": [
+      "Dear Sir, Dr. Banerjee covers backpropagation math in Natural Language Processing so fast that no one can follow d derivations. Honestly this is unacceptable for an AIML dept Can this be resolved soon? Regards,",
+      "Dear HOD, Prof. Kulkarni covers backpropagation math in Probabilistic Models so fast that no one can follow d derivations. This is affecting our preparation for d project review. pls look into it. Sincerely,",
+      "Additional  comments: Dr. Joshi covers backpropagation math in Machine Learning so fast that no one can follow the derivations. About 12 students are affected. mail me at student354@gmail.com",
+      "Dear HOD, Prof. Nambiar covers backpropagation math in Machine Learning so fast that no one can follow d derivations. This is blocking my credits and d project review is next week. We would appreciate a response. Sincerely,",
+      "[High] Dr. Menon covers backpropagation math in AI Ethics so fast that no one can follow the derivations. This is the third time we are reporting this and nothing happens."
+    ]
+  },
+  "C36": {
+    "category_id": "C36",
+    "category_name": "Lab Network Blocking Python Package Installation",
+    "room_number": "General",
+    "description": "Firewall or network filtering preventing students from running pip install for coursework.",
+    "complaint_count": 6,
+    "example_complaints": [
+      "[Low] We cannot pip install anything on lab systems, internet filters block half of the libraries. Students in the batch are a bit inconvenienced.  CONFIDENTIAL: this message is intended only for the addressee.",
+      "Any suggestions for the department? We cannot pip install anything on lab systems, internet filters block half of the libraries. About 12 students are affected. bohot slow hai",
+      "[Low] We cannot pip install anything on lab systems, internet filters block half of the libraries. We understand there may be constraints, but it is slowing down our work.",
+      "Hello  Sir,  We  cannot pip install anything on lab systems, internet filters block half of the libraries. It would be a great help if this is looked into soon. Please share a timeline. Sincerely, sir please help",
+      "Dear HOD, We cannot pip install anything on lab systems, internet filters block half of the libraries. We keep losing time and marks because of this. Please look into it. Sincerely,"
+    ]
+  },
+  "C37": {
+    "category_id": "C37",
+    "category_name": "GPU & Computing Resource Bottleneck",
+    "room_number": "General",
+    "description": "Students reporting insufficient GPUs, training queue delays, or inability to train deep learning models.",
+    "complaint_count": 19,
+    "example_complaints": [
+      "Dear HOD, Only two GPUs for the entire batch and the queue to train a CNN never movves!!! This has been happening since 2 weeeks ago. Please look into it. Regards,",
+      "<p>[High] d dept should buy newer workstations and a small GPU cluster for stdnts Honestly this is unacceptable for an AIML dept</p><br>",
+      "[high] feedback comes so late that we repeat the same mistakes in the next assignment. the gpu machines in the ml lab are always occupied or down, so ai ethics model training takes days on cpu. everyone is fed up with this situation. see https://bit.ly/acc3zy",
+      "What problems did you face? Too much theory in Big Data Analytics and hardly any hands-on coding examples during lectures. The department should buy newer workstations and a small GPU cluster for students. This has been happening since the first week of October.\n\nSent from my iPhone",
+      "Dear Sir, Only two GPUs for the entire batch and the queue to train a CNN never moves. We keep losing time and marks because of this. Please look into it. Regards,"
+    ]
+  },
+  "C38": {
+    "category_id": "C38",
+    "category_name": "Project Guide Inaccessibility & Inadequate Mentorship",
+    "room_number": "General",
+    "description": "Faculty guides unavailable, travelling, or failing to assign co-guides during project phases.",
+    "complaint_count": 22,
+    "example_complaints": [
+      "[medium] my project guide has not met our team for weeks and our project review is near. about 45 students are affected. see https://bit.ly/x231zz",
+      "[Medium] We need regular guidance on model evaluation but our guide is always travelling!!! This has been happening since since the semester began. bilkul bekaar hai",
+      "<p>[Critical] We need regular guidance on model evaluation but our guide is always travelling. This is blocking my credits and the mid-sem is next week.</p><br>",
+      "<p>[MEDIUM] WE NEED REGULAR GUIDANCE ON MODEL EVALUATION BUT OUR GUIDE IS ALWAYS TRAVELLING. IT WAS MENTIONED EARLIER BUT NOTHING CHANGED.</p><br>",
+      "[Loww] We need regular guidance on model evaluation but our guide is aways travelling. We understand there may be constraints, but it is sllowing down our work."
+    ]
+  },
+  "C39": {
+    "category_id": "C39",
+    "category_name": "Lab PC Hardware Performance & System Crashes",
+    "room_number": "General",
+    "description": "Lab computers frequently freezing, restarting during experiments, or taking 10+ minutes to boot.",
+    "complaint_count": 10,
+    "example_complaints": [
+      "[Critical] There is no clear rubric for the Computer Vision project; marks seem random between batches. This needs action this week, it is serious. bohot slow hai",
+      "everything is slow",
+      "??? bohot slow hai",
+      "[Low] There is no cleear rubric for the Computer Vision project; marks seem random between batches. This is affecting our preparation for the midâ€“sem.",
+      "[Medium] Lecture slides for Probabilistic Models are not shared befroe class and d pace is too quick for notes. This has been happening since mid Occtober. bohot slow hai pls reply"
+    ]
+  },
+  "C40": {
+    "category_id": "C40",
+    "category_name": "GPU & Computing Resource Bottleneck - Aiml Research Lab",
+    "room_number": "Aiml Research Lab",
+    "description": "Students reporting insufficient GPUs, training queue delays, or inability to train deep learning models. Located at Aiml Research Lab.",
+    "complaint_count": 11,
+    "example_complaints": [
+      "guys the GPU machines in the AIML research lab are always occupied or down, so Natural Langage Processing model training takkes days on CPU!!! everyoone is fed up with this situation. pllease share a timeline. lmk",
+      "[High] The AIML research lab closes at 5 pm, which is too early for training runs and project work. We keep losing time and marks because of this.",
+      "<p>Hello Sir, d AIML research lab closes at 5 pm, which is too early for training runs and project work. We understand there may be constraints, but it is slowing down our work. We would appreciate a response. Sincerely,</p><br>",
+      "draft for HOD: please look into it. the AIML research lab closes at 5 pm, which is too early for training runs and project work. this is blocking my credits and the assignment deadline is next week. pls react if same",
+      "[Low] The GPU machines in the AIML research lab are always occupied or down, so Probabilistic Models model training takes days on CPU. This is afecting our preparation for the end-sem practical."
+    ]
+  },
+  "C41": {
+    "category_id": "C41",
+    "category_name": "Unresponsive Revaluation Process",
+    "room_number": "General",
+    "description": "Lack of response and unclear procedures for examination and assignment revaluations.",
+    "complaint_count": 9,
+    "example_complaints": [
+      "Dear HOD, Revaluation process for Machine Learning is uncleear and nobody replies to our queries. Students in the batch are a bit inconvenienced. We would appreciate a response. Sincerely,",
+      "Any suggestions for the department? Revaluation proces for Reinforcement Learning is unclear and nobody replies to our queries. This is the third time we are reporting this and nothing happens.",
+      "Feedback: Revaluation process for Big Data Analytics is unclear and nobody repies to our queries. We understand there may be constraints, but it is slowing down our work.",
+      "<p>[Medium] Revaluation process for Natural Language Processing is unclear and nobody replies to our queries. This has been happening since 20 October.</p><br>",
+      "[Medium] Revaluation process for Data Mining is unclear and nobody replies to our queries. Several groups are behind schedule because of this."
+    ]
+  },
+  "C42": {
+    "category_id": "C42",
+    "category_name": "Facility / Infrastructure Issue - Aiml Research Lab",
+    "room_number": "Aiml Research Lab",
+    "description": "Student grievance specifically reported in Aiml Research Lab.",
+    "complaint_count": 4,
+    "example_complaints": [
+      "[Critical] Can a keycard system be arranged so finalâ€“year students can use the AIML research lab at night? This is blocking my credits and the project review is next week.",
+      "<p>Respecteed Sir/Madam, d AC in d AIML research lab has been off since September; the room is un",
+      "Rspected Sir/Maam, Student licecne for MATLAB and the deep learning toolbox has expired in AIML research lab, blocking Compuetr Vision assignments. Please escalate this immediately. Kiindly arrane a fix at the earliets. Thanks,",
+      "Feedback: Can a keycard system be arranged so finalâ€“year students can use the AIML research lab at night? This is the third time we are reporting this and nothing happens."
+    ]
+  },
+  "C43": {
+    "category_id": "C43",
+    "category_name": "Classroom Projector Flickering / Dim Display - Seminar Hall",
+    "room_number": "Seminar Hall",
+    "description": "Projectors in classrooms or seminar halls malfunctioning or unreadable from back benches. Located at Seminar Hall.",
+    "complaint_count": 5,
+    "example_complaints": [
+      "additional comments: the projector in aiml seminar hall flickers and the code on slides is unreadable. students in the batch are a bit inconvenienced.",
+      "[Medium] The projector in AIML seminar hall flickers and the code on slides is unreadable!!! Several groupps are behind schedule because of thsi. (reminder)",
+      "FEEDBACK: THE PROJECTOR IN AIML SEMINAR HALL FLICKERS AND THE CODE ON SLIDES IS UREADABLE. SEVERAL GROUPS ARE BEHIND SCHEDULE BECAUSE OF THIS.",
+      "[Medium] The projector in AIML seminar hall flickers and the code on slides is unreadable!!! Several groupps are behind schedule because of this.",
+      "Dear HOD, The projector in AIML seminar hall flickers and the code on slides is unreadable. We keep losing time and marks because of this. We would appreciate a response. Regards,"
+    ]
+  },
+  "C44": {
+    "category_id": "C44",
+    "category_name": "Lab PC Hardware Performance & System Crashes - Ai Lab",
+    "room_number": "Ai Lab",
+    "description": "Lab computers frequently freezing, restarting during experiments, or taking 10+ minutes to boot. Located at Ai Lab.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "draft for HOD: about 80 students are affected. systems in the AI lab are extremely slow, with 8 GB RAM and frequent hangs during dataset loading. please share a timeline. thoughts?  Get Outlook for Android"
+    ]
+  },
+  "C45": {
+    "category_id": "C45",
+    "category_name": "Broken Seating & Classroom Furniture Shortage - Room A-204",
+    "room_number": "Room A-204",
+    "description": "Damaged study chairs and insufficient seating in lecture rooms. Located at Room A-204.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "What problems did you face? Chairs in classroom A-204 are broken and there aren't enough seats for the whole batch. Unless fixed fasst, 20 students will miss the deadline. sir please help",
+      "respected sir/madam, chairs in classroom a-204 are broken and there aren't enough seats for the whole batch. please escalate this immediately. we would appreciate a response. thanks, please jaldi dekho"
+    ]
+  },
+  "C46": {
+    "category_id": "C46",
+    "category_name": "Broken Seating & Classroom Furniture Shortage - Room B-110",
+    "room_number": "Room B-110",
+    "description": "Damaged study chairs and insufficient seating in lecture rooms. Located at Room B-110.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "hey all, kindly arrange a fix at d earliest. unless fixed fast, 80 stdnts will miss d deadline. chairs in room B-110 are broken and there aren't enough seats for d whole batch. thoughts?"
+    ]
+  },
+  "C47": {
+    "category_id": "C47",
+    "category_name": "Early Lab Closure Restricting Model Training - Aiml Research Lab",
+    "room_number": "Aiml Research Lab",
+    "description": "AI/GPU labs closing at 5 PM before long-running model training or project experiments finish. Located at Aiml Research Lab.",
+    "complaint_count": 3,
+    "example_complaints": [
+      "hello sir, water dispenser on the aiml floor has been empty since the first week of october. please allow weekend access to the aiml research lab; long experiments can't be completed in a 2-hour slot. this is affecting our preparation for the project review. kindly arrange a fix at the earliest. sincerely,",
+      "Additional comments: Please allow weekend access to the AIML research lab; long experiments can't be completed in a 2-hour slot. We keep losing time and marks because of this.",
+      "[Critical] pls allow weekend access to d AIML research lab; long experiments can't be completed in a 2-hour slot. This is blocking my credits and d lab viva is next week."
+    ]
+  },
+  "C48": {
+    "category_id": "C48",
+    "category_name": "Broken Seating & Classroom Furniture Shortage",
+    "room_number": "General",
+    "description": "Damaged study chairs and insufficient seating in lecture rooms.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "guys chairs in d department smart class are broken and there aren't enough seats for d whole batch. pls look into it. it would be a great help if this is looked into soon.",
+      "Any  suggestions  for  the department? Chairs in the department smart class are broken and there aren't enough seats for the whole batch. Everyone is fed up with this situation."
+    ]
+  },
+  "C49": {
+    "category_id": "C49",
+    "category_name": "Broken Seating & Classroom Furniture Shortage - Seminar Hall",
+    "room_number": "Seminar Hall",
+    "description": "Damaged study chairs and insufficient seating in lecture rooms. Located at Seminar Hall.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "Respected Sir/Madam, Chairs in AIML seminar hall are broken and there aren't enough seats for d whole batch. This has been happening sincce since d smester began. Request d dept to take action. Thanks,",
+      "Additional comments: Chairs in AIML seminar hall are broken and there aren't enough seats for the whole batch. This has been happening since mid October."
+    ]
+  },
+  "C50": {
+    "category_id": "C50",
+    "category_name": "Seminar Hall Audio & Microphone Malfunction",
+    "room_number": "General",
+    "description": "Sound systems failing during lectures and guest presentations.",
+    "complaint_count": 3,
+    "example_complaints": [
+      "Feedback: The mic in the departmnt smarrt class doesn't work so students at the back canot hear Prof. Kulkarni. It wuld be a great help if this is lookeed into soon.",
+      "[Critical]  The  mic in AIML smeinar hall doesn't work so stdnts at d back cannot hear Dr. Reddy. Please escalate this asap",
+      "[Medium]  The  mic  in the department smart class doesn't work so students at the back cannot hear Prof. Iyer. It was mentioned earlier but nothing changed."
+    ]
+  },
+  "C51": {
+    "category_id": "C51",
+    "category_name": "Seminar Hall Audio & Microphone Malfunction - Tutorial Room 3",
+    "room_number": "Tutorial Room 3",
+    "description": "Sound systems failing during lectures and guest presentations. Located at Tutorial Room 3.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "Feedbback: The mic in tutorial room 3 doesn't work so students at the back cannot hear Prof. Kulkarni. About 80 students are affected."
+    ]
+  },
+  "C52": {
+    "category_id": "C52",
+    "category_name": "Seminar Hall Audio & Microphone Malfunction - Room A-204",
+    "room_number": "Room A-204",
+    "description": "Sound systems failing during lectures and guest presentations. Located at Room A-204.",
+    "complaint_count": 4,
+    "example_complaints": [
+      "Dear Sir, The mic in classroom A-204 doesn't work so students at the back cannot hear Prof. Qureshi. Sutdents in the batch are a bit inconvenienced. Please sharre a timeline. Thanks, pls reply",
+      "guys please look into it. the mic in classroom A-204 doesn't work so students at the back cannot hear Dr. Reddy. students in the batch are a bit inconvenienced. thoughts?",
+      "Respected Sir/Madam, The mic in classroom A-204 doesn't work so students at the back cannot hear Dr. Reddy. Everyone is fed up with this situation. Request the department to take action. Sincerely,",
+      "Dear Sir, The mic in classroom A-204 doesn't work so students at the back cannot hear Prof. Qureshi. Students in the batch are a bit inconvenienced. Please share a timeline. Thanks,"
+    ]
+  },
+  "C53": {
+    "category_id": "C53",
+    "category_name": "Delayed Lab Record Verification & TA Feedback",
+    "room_number": "General",
+    "description": "TAs delaying lab record corrections and withholding performance feedback.",
+    "complaint_count": 4,
+    "example_complaints": [
+      "Respected  Sir/Madam,  Nobody has told us the results of the Natural Language Processing lab record, and Dr. Banerjee says TAs are checking. Please escaalte this immediately. Request the department to take action. Regards, please jaldi dekho",
+      "Hello Sir, Nobody has told us the results of the Computer Vision lab record, and Prof. Nambiar says TAs are checking. Unless fixed fast, 20 students will miss the deadline. Can this be rsolved soon? Thanks,",
+      "[Low] Nobody has told us the results of the Natural Language Processing lab record, and Prof!!! Kulkarni says TAs a",
+      "Dear HOD, Nobody has told us the results of the Probabilistic Models lab record, and Prof. Kulkanri says TAs are checking. Everyonne is fed up with this situation. Please look into it. Thanks,"
+    ]
+  },
+  "C54": {
+    "category_id": "C54",
+    "category_name": "Early Lab Closure Restricting Model Training - Data Science Lab",
+    "room_number": "Data Science Lab",
+    "description": "AI/GPU labs closing at 5 PM before long-running model training or project experiments finish. Located at Data Science Lab.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "HELLO SIR, PLEASE ALLOW WEEKEND ACCESS TO THE DATA SCIENCE LAB; LONG EXPERIMENTS CAN'T BE COMPLETED IN A 2-HOUR SLOT. IT WOULD BE A GREAT HELP IF THIS IS LOOKED INTO SOON. PLEASE LOOK INTO IT. SINCERELY,"
+    ]
+  },
+  "C55": {
+    "category_id": "C55",
+    "category_name": "Classroom Projector Flickering / Dim Display",
+    "room_number": "General",
+    "description": "Projectors in classrooms or seminar halls malfunctioning or unreadable from back benches.",
+    "complaint_count": 3,
+    "example_complaints": [
+      "feedback: the projector in the department smart class flickers and the code on slides is unreadable. this has been happening since mid october. 👍 (reminder)",
+      "feedback: the projector in the department smart class flickers and the code on slides is unreadable. this has been happening since mid october. 👍",
+      "Dear Sir, The projector in the department smart class flickers and the code on slides is unreadable!!! Everyone is fed up with this situation. Can this be resolved soon? Thanks,"
+    ]
+  },
+  "C56": {
+    "category_id": "C56",
+    "category_name": "Facility / Infrastructure Issue - Ai Lab",
+    "room_number": "Ai Lab",
+    "description": "Student grievance specifically reported in Ai Lab.",
+    "complaint_count": 3,
+    "example_complaints": [
+      "hey all, about 12 students are affected. keyboards, mice and monitors in the AI lab are broken and nobody replaces them. can this be resolved soon? mail me at student690@gmail.com",
+      "Any suggestions for d department? Student licence for MATLAB and d deep learning toolbox has expired in AI lab, blocking Reinforcement Learning assignments. stdnts in d batch are a bit inconvenienced.",
+      "Hello  Sir,  Can a keycard system be arranged so final-year students can use the AI lab at night? We understand there may be constraints, but it is slowing down our work. Please share a timeline. Thanks, ekdum kharab hai"
+    ]
+  },
+  "C57": {
+    "category_id": "C57",
+    "category_name": "Facility / Infrastructure Issue - Data Science Lab",
+    "room_number": "Data Science Lab",
+    "description": "Student grievance specifically reported in Data Science Lab.",
+    "complaint_count": 5,
+    "example_complaints": [
+      "What problems did u face? Can a keycard system be arranged so final-year students can use d Data Science lab at night? This has been happening since since d semester began!!!",
+      "guys aout 30 sutdents are affected. can this be resolved soon? the AC in d Data Science lab has been off since last month; d room is unbearably hot and PCs shut down. thoughts?",
+      "Additional comments: The AC in the Data Science lab has been off since 2 weeks ago; the room is unbearaby hot and PCs shut down. Honestly this is unacceptable for an AIML department. pls reply",
+      "ANY SUGGESTIONS FOR d DEPARTMENT? THE AC IN THE DATA SCIENCE LAB HAS BEEN OFF SINCE LAST MONTH; d ROOM IS UNBEARABLY HOT AND PCS SHUT DOWN!!! ABOUT 60 STUDENTS ARE AFFECTED. mail me at student639@gmail.com",
+      "Additional comments: The AC in the Data Science lab has been off since 2 weeks ago; the room is unbearably hot and PCs shut down. Honestly this is unacceptable for an AIML department."
+    ]
+  },
+  "C58": {
+    "category_id": "C58",
+    "category_name": "Lab PC Hardware Performance & System Crashes - Aiml Research Lab",
+    "room_number": "Aiml Research Lab",
+    "description": "Lab computers frequently freezing, restarting during experiments, or taking 10+ minutes to boot. Located at Aiml Research Lab.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "Additional comments: Systems in the AIML research lab are extremely slow, with 8 GB RAM and frequent hangs during dataset loading. It would be a great help if this is looked into soon. bohot slow hai"
+    ]
+  },
+  "C59": {
+    "category_id": "C59",
+    "category_name": "Facility / Infrastructure Issue - Tutorial Room 3",
+    "room_number": "Tutorial Room 3",
+    "description": "Student grievance specifically reported in Tutorial Room 3.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "dear sir, the projetor in tutorial room 3 flickeers and the code on slides is unrreadable. it was mentoined earlier but nothing chanegd. request the department to take action. sincerely,"
+    ]
+  },
+  "C60": {
+    "category_id": "C60",
+    "category_name": "Unannounced Postponement of Project Reviews - Room B-110",
+    "room_number": "Room B-110",
+    "description": "Final-year and mini-project review evaluation dates postponed without notice. Located at Room B-110.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "[Medium] The mic in room B-110 doen't work so students at the back cannnot hear Dr. Menon. Several groups are bheind schedule becaause of this."
+    ]
+  },
+  "C61": {
+    "category_id": "C61",
+    "category_name": "Classroom Projector Flickering / Dim Display - Tutorial Room 3",
+    "room_number": "Tutorial Room 3",
+    "description": "Projectors in classrooms or seminar halls malfunctioning or unreadable from back benches. Located at Tutorial Room 3.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "any suggestions for the department? the projector in tutorial room 3 flickers and the code on slides is unreadable. students in the bach are a bit inconvenienced.",
+      "Any  suggestions for the department? The projector in tutorial room 3 flickers and the code on slides is unreadable. Students in the batch are a bit inconvenienced."
+    ]
+  },
+  "C62": {
+    "category_id": "C62",
+    "category_name": "Classroom Projector Flickering / Dim Display - Room B-110",
+    "room_number": "Room B-110",
+    "description": "Projectors in classrooms or seminar halls malfunctioning or unreadable from back benches. Located at Room B-110.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "Feedback: d projector in room B-110 flickers and d code on slides is unreadable. We understand there may be constraints, but it is slowing down our work. Contact: 9846975162"
+    ]
+  },
+  "C63": {
+    "category_id": "C63",
+    "category_name": "Classroom Projector Flickering / Dim Display - Room B110",
+    "room_number": "Room B110",
+    "description": "Projectors in classrooms or seminar halls malfunctioning or unreadable from back benches. Located at Room B110.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "Feedback: The projector in room B110 flickesr and the code on slides is unreadable!!! Please escalate this immediately."
+    ]
+  },
+  "C64": {
+    "category_id": "C64",
+    "category_name": "Subjective Coding Style Mark Deductions & Unclear Rubrics",
+    "room_number": "General",
+    "description": "Students losing marks for unannounced coding style criteria or arbitrary grading across batches.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "hey all, there is no cler rubric for the Reinforcement Learning porject; maks seem random beetween batches. we understand there may be constraints, but it is slowing down our wor. please look into it. pls recat if same"
+    ]
+  },
+  "C65": {
+    "category_id": "C65",
+    "category_name": "Insufficient Charging Ports - Room General",
+    "room_number": "General",
+    "description": "Students report that the classroom provides too few charging ports/power outlets, preventing them from charging laptops and other devices during class sessions. This shortage leads to frequent interruptions, reduced productivity, and concerns about device battery depletion during lectures.",
+    "complaint_count": 1,
+    "example_complaints": [
+      "i less charging ports in class"
+    ]
+  },
+  "C66": {
+    "category_id": "C66",
+    "category_name": "Ceiling Fan Not Working - Room 107",
+    "room_number": "107",
+    "description": "The ceiling fan in room 107 has stopped operating, leaving the classroom without proper ventilation and causing discomfort for students.",
+    "complaint_count": 4,
+    "example_complaints": [
+      "Fan not working in room 107",
+      "The ceiling fan has stopped spinning in room 107"
+    ]
+  },
+  "C67": {
+    "category_id": "C67",
+    "category_name": "Ceiling Fan Not Working - Room 109",
+    "room_number": "109",
+    "description": "The ceiling fan in room 109 is not functioning, resulting in inadequate airflow and an uncomfortable learning environment.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "Fan not working in room 109"
+    ]
+  },
+  "C68": {
+    "category_id": "C68",
+    "category_name": "Washroom Tap Leakage - Room 107",
+    "room_number": "107",
+    "description": "A tap in the washroom attached to room 107 is leaking water, creating a mess and potential slip hazard for students and staff.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "Water leakage from tap in washroom of room 107"
+    ]
+  },
+  "C69": {
+    "category_id": "C69",
+    "category_name": "Tube Light Flickering - Room 109",
+    "room_number": "109",
+    "description": "The tube light in room 109 flickers intermittently and often fails to turn on, affecting visibility during lectures.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "Tube light is flickering and not turning on in room 109"
+    ]
+  },
+  "C70": {
+    "category_id": "C70",
+    "category_name": "Tube Light Not Working - Room 203",
+    "room_number": "203",
+    "description": "The tube light in room 203 is completely dead, leaving the classroom without adequate lighting.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "Tube light is completely dead in room 203"
+    ]
+  },
+  "C71": {
+    "category_id": "C71",
+    "category_name": "Air Conditioning Not Cooling - Room 204",
+    "room_number": "204",
+    "description": "The air conditioner in room 204 is blowing warm air and does not cool the room properly, making the environment uncomfortable for occupants.",
+    "complaint_count": 4,
+    "example_complaints": [
+      "AC is not cooling properly and blowing warm air in room 204",
+      "Air conditioner remote and cooling unit faulty in room 204"
+    ]
+  },
+  "C72": {
+    "category_id": "C72",
+    "category_name": "Main Door Latch Jammed - Room 107",
+    "room_number": "107",
+    "description": "The main door latch in room 107 is jammed, preventing the door from opening or closing smoothly and posing a security concern.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "Main door latch lock is jammed in room 107"
+    ]
+  },
+  "C73": {
+    "category_id": "C73",
+    "category_name": "Window Latch Broken - Room 305",
+    "room_number": "305",
+    "description": "The window latch in room 305 is broken, causing the glass to rattle and creating a safety hazard.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "Window latch is broken and glass rattling in room 305"
+    ]
+  },
+  "C74": {
+    "category_id": "C74",
+    "category_name": "Wi‑Fi Router Disconnection - Room General",
+    "room_number": "General",
+    "description": "The Wi‑Fi router located in the 2nd‑floor hostel corridor repeatedly disconnects, causing loss of internet connectivity for students and residents. Immediate inspection and repair/replacement of the router is required.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "Hostel 2nd floor corridor Wi-Fi router keeps disconnecting"
+    ]
+  },
+  "C75": {
+    "category_id": "C75",
+    "category_name": "No Hot Water Supply in Common Washroom - Room General",
+    "room_number": "General",
+    "description": "The common washroom on the 1st floor does not provide hot water, affecting students' ability to take showers and maintain hygiene. The water heating system needs to be checked and restored.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "No hot water supply in 1st floor common washroom"
+    ]
+  },
+  "C76": {
+    "category_id": "C76",
+    "category_name": "Water Cooler Leakage - Room General",
+    "room_number": "General",
+    "description": "The water cooler on the 3rd floor is leaking water onto the floor, creating a slip hazard and potential damage to flooring. The cooler should be repaired or replaced and the area cleaned.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "Water cooler on 3rd floor is leaking water on the floor"
+    ]
+  },
+  "C77": {
+    "category_id": "C77",
+    "category_name": "Stale and Unhygienic Mess Dinner Food - Room General",
+    "room_number": "General",
+    "description": "The dinner served in the mess was reported as stale and unhygienic, raising concerns about food safety and student health. Kitchen staff need to review food preparation and storage practices.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "Mess dinner food quality was stale and unhygienic today"
+    ]
+  },
+  "C78": {
+    "category_id": "C78",
+    "category_name": "Gym Treadmill Belt Slipping - Room General",
+    "room_number": "General",
+    "description": "The treadmill in the gym has a slipping belt, making it unsafe for use and preventing effective workouts. Maintenance should tighten or replace the belt promptly.",
+    "complaint_count": 2,
+    "example_complaints": [
+      "Gym treadmill belt is slipping and malfunctioning"
+    ]
+  }
+}

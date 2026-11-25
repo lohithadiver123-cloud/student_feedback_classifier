@@ -1,0 +1,16 @@
+complaint_id,room_number,complaint_text
+CMP001,107,Fan not working in room 107
+CMP002,109,Fan not working in room 109
+CMP003,107,The ceiling fan has stopped spinning in room 107
+CMP004,107,Water leakage from tap in washroom of room 107
+CMP005,109,Tube light is flickering and not turning on in room 109
+CMP006,203,Tube light is completely dead in room 203
+CMP007,204,AC is not cooling properly and blowing warm air in room 204
+CMP008,204,Air conditioner remote and cooling unit faulty in room 204
+CMP009,107,Main door latch lock is jammed in room 107
+CMP010,305,Window latch is broken and glass rattling in room 305
+CMP011,General,Hostel 2nd floor corridor Wi-Fi router keeps disconnecting
+CMP012,General,No hot water supply in 1st floor common washroom
+CMP013,General,Water cooler on 3rd floor is leaking water on the floor
+CMP014,General,Mess dinner food quality was stale and unhygienic today
+CMP015,General,Gym treadmill belt is slipping and malfunctioning
